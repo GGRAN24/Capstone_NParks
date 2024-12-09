@@ -1,0 +1,121 @@
+Park Code,Park Name,Category,Category Sort,Order,Family,Taxon Code,TSN,Taxon Record Status,Scientific Name,Common Names,Synonyms,Occurrence
+SAGU,Saguaro National Park,Mammal,1,Artiodactyla,Bovidae,86816,183838,Active,Bos taurus,domestic cattle,,Present
+SAGU,Saguaro National Park,Mammal,1,Artiodactyla,Cervidae,95045,180698,Active,Odocoileus hemionus,mule deer,,Present
+SAGU,Saguaro National Park,Mammal,1,Artiodactyla,Cervidae,95046,180699,Active,Odocoileus virginianus,white-tailed deer,,Present
+SAGU,Saguaro National Park,Mammal,1,Artiodactyla,Tayassuidae,264631,552761,Active,Pecari tajacu,collared peccary,Dicotyles tajacu,Present
+SAGU,Saguaro National Park,Mammal,1,Carnivora,Canidae,86124,183815,Active,Canis familiaris,feral dog,,Present
+SAGU,Saguaro National Park,Mammal,1,Carnivora,Canidae,93340,180599,Active,Canis latrans,coyote,,Present
+SAGU,Saguaro National Park,Mammal,1,Carnivora,Canidae,93352,180609,Active,Urocyon cinereoargenteus,common gray fox,,Present
+SAGU,Saguaro National Park,Mammal,1,Carnivora,Canidae,93349,180606,Active,Vulpes macrotis,Kit Fox,,Present
+SAGU,Saguaro National Park,Mammal,1,Carnivora,Felidae,93329,180589,Active,Felis silvestris,Domestic Cat,Felis catus,Present
+SAGU,Saguaro National Park,Mammal,1,Carnivora,Felidae,93322,180582,Active,Lynx rufus,bobcat,Felis rufus,Present
+SAGU,Saguaro National Park,Mammal,1,Carnivora,Felidae,260571,552479,Active,Puma concolor,mountain lion,"Felis concolor, Puma concolor azteca",Present
+SAGU,Saguaro National Park,Mammal,1,Carnivora,Mephitidae,93306,180568,Active,Conepatus mesoleucus,white-backed hog-nosed skunk,,Present
+SAGU,Saguaro National Park,Mammal,1,Carnivora,Mephitidae,93301,180563,Active,Mephitis macroura,hooded skunk,,Present
+SAGU,Saguaro National Park,Mammal,1,Carnivora,Mephitidae,93300,180562,Active,Mephitis mephitis,striped skunk,,Present
+SAGU,Saguaro National Park,Mammal,1,Carnivora,Mephitidae,93309,180570,Active,Spilogale putorius,Western Spotted Skunk,Spilogale gracilis,Present
+SAGU,Saguaro National Park,Mammal,1,Carnivora,Mustelidae,93303,180565,Active,Taxidea taxus,"American badger, badger",,Present
+SAGU,Saguaro National Park,Mammal,1,Carnivora,Procyonidae,93316,180577,Active,Bassariscus astutus,ringtail,,Present
+SAGU,Saguaro National Park,Mammal,1,Carnivora,Procyonidae,264247,552462,Active,Nasua narica,white-nosed coati,,Present
+SAGU,Saguaro National Park,Mammal,1,Carnivora,Procyonidae,93318,180579,Active,Nasua nasua,South American Coati,,Present
+SAGU,Saguaro National Park,Mammal,1,Carnivora,Procyonidae,93314,180575,Active,Procyon lotor,"common raccoon, Northern Raccoon, Raccoon",,Present
+SAGU,Saguaro National Park,Mammal,1,Carnivora,Ursidae,93280,180544,Active,Ursus americanus,American black bear,,Present
+SAGU,Saguaro National Park,Mammal,1,Chiroptera,Molossidae,89607,180085,Active,Nyctinomops femorosaccus,pocketed free-tailed bat,,Present
+SAGU,Saguaro National Park,Mammal,1,Chiroptera,Molossidae,89610,180088,Active,Tadarida brasiliensis,"Brazilian free-tailed bat, Mexican free-tailed bat",Tadarida mexicana,Present
+SAGU,Saguaro National Park,Mammal,1,Chiroptera,Phyllostomidae,89582,180062,Active,Choeronycteris mexicana,"long-tongued bat, Mexican long-tongued bat",,Present
+SAGU,Saguaro National Park,Mammal,1,Chiroptera,Phyllostomidae,264251,552464,Active,Leptonycteris curasoae,"Lesser long-nosed, Lesser long-nosed bat",,Present
+SAGU,Saguaro National Park,Mammal,1,Chiroptera,Phyllostomidae,106785,202347,Active,Leptonycteris yerbabuenae,"Lesser Long-nosed Bat, Sanborn's Long-nosed Bat","Leptonycteris curasoae yerbabuenae, Leptonycteris sanborni",Present
+SAGU,Saguaro National Park,Mammal,1,Chiroptera,Phyllostomidae,89592,180071,Active,Macrotus californicus,California leaf-nosed bat,,Present
+SAGU,Saguaro National Park,Mammal,1,Chiroptera,Vespertilionidae,88728,180006,Active,Antrozous pallidus,pallid bat,"Antrozous pallidus pallidus, Antrosous pallidus pallidus",Present
+SAGU,Saguaro National Park,Mammal,1,Chiroptera,Vespertilionidae,88730,180008,Active,Eptesicus fuscus,big brown bat,,Present
+SAGU,Saguaro National Park,Mammal,1,Chiroptera,Vespertilionidae,88737,180014,Active,Lasionycteris noctivagans,silver-haired bat,,Present
+SAGU,Saguaro National Park,Mammal,1,Chiroptera,Vespertilionidae,260642,552512,Active,Lasiurus blossevillii,western red bat,,Present
+SAGU,Saguaro National Park,Mammal,1,Chiroptera,Vespertilionidae,88740,180017,Active,Lasiurus cinereus,hoary bat,,Present
+SAGU,Saguaro National Park,Mammal,1,Chiroptera,Vespertilionidae,88711,179992,Active,Myotis auriculus,southwestern myotis,,Present
+SAGU,Saguaro National Park,Mammal,1,Chiroptera,Vespertilionidae,88710,179991,Active,Myotis californicus,"California myotis, californis myotis",Myotis californicus californicus,Present
+SAGU,Saguaro National Park,Mammal,1,Chiroptera,Vespertilionidae,88718,179999,Active,Myotis leibii,"Small-footed Myotis, western small-footed bat, Western Small-footed Myotis",Myotis ciliolabrum,Present
+SAGU,Saguaro National Park,Mammal,1,Chiroptera,Vespertilionidae,88724,180002,Active,Myotis thysanodes,fringed myotis,,Present
+SAGU,Saguaro National Park,Mammal,1,Chiroptera,Vespertilionidae,88725,180003,Active,Myotis velifer,cave myotis,Myotis velifer velifer,Present
+SAGU,Saguaro National Park,Mammal,1,Chiroptera,Vespertilionidae,88709,179990,Active,Myotis volans,long-legged myotis,,Present
+SAGU,Saguaro National Park,Mammal,1,Chiroptera,Vespertilionidae,88726,180004,Active,Myotis yumanensis,Yuma myotis,,Present
+SAGU,Saguaro National Park,Mammal,1,Chiroptera,Vespertilionidae,88748,180024,Active,Pipistrellus hesperus,western pipistrelle,,Present
+SAGU,Saguaro National Park,Mammal,1,Chiroptera,Vespertilionidae,88752,180028,Active,Plecotus townsendii,Townsend's big-eared bat,Corynorhinus townsendii pallescens,Present
+SAGU,Saguaro National Park,Mammal,1,Eulipotyphla,Soricidae,88690,179973,Active,Notiosorex crawfordi,"Crawford's Gray Shrew, Desert Gray Shrew, Desert Shrew",,Present
+SAGU,Saguaro National Park,Mammal,1,Lagomorpha,Leporidae,89640,180114,Active,Lepus alleni,antelope jackrabbit,,Present
+SAGU,Saguaro National Park,Mammal,1,Lagomorpha,Leporidae,89641,180115,Active,Lepus californicus,black-tailed jackrabbit,,Present
+SAGU,Saguaro National Park,Mammal,1,Lagomorpha,Leporidae,89649,180122,Active,Sylvilagus audubonii,desert cottontail,,Present
+SAGU,Saguaro National Park,Mammal,1,Rodentia,Castoridae,90673,180212,Active,Castor canadensis,American beaver,,Present
+SAGU,Saguaro National Park,Mammal,1,Rodentia,Cricetidae,91767,180370,Active,Neotoma albigula,"western white-throated woodrat, white-throated woodrat",,Present
+SAGU,Saguaro National Park,Mammal,1,Rodentia,Cricetidae,91772,180375,Active,Neotoma mexicana,Mexican Woodrat,,Present
+SAGU,Saguaro National Park,Mammal,1,Rodentia,Cricetidae,91781,180383,Active,Onychomys torridus,Southern Grasshopper Mouse,,Present
+SAGU,Saguaro National Park,Mammal,1,Rodentia,Cricetidae,90750,180282,Active,Peromyscus boylii,brush mouse,,Present
+SAGU,Saguaro National Park,Mammal,1,Rodentia,Cricetidae,90754,180286,Active,Peromyscus eremicus,cactus mouse,Peromyscus eremicus eremicus,Present
+SAGU,Saguaro National Park,Mammal,1,Rodentia,Cricetidae,90745,180278,Active,Peromyscus leucopus,"White-footed Deermouse, White-footed Mouse",,Present
+SAGU,Saguaro National Park,Mammal,1,Rodentia,Cricetidae,90743,180276,Active,Peromyscus maniculatus,deer mouse,,Present
+SAGU,Saguaro National Park,Mammal,1,Rodentia,Cricetidae,91735,180341,Active,Reithrodontomys fulvescens,fulvous harvest mouse,,Present
+SAGU,Saguaro National Park,Mammal,1,Rodentia,Cricetidae,91737,180343,Active,Reithrodontomys megalotis,Western harvest mouse,Reithrodontomys megalotis megalotis,Present
+SAGU,Saguaro National Park,Mammal,1,Rodentia,Cricetidae,91741,180347,Active,Sigmodon arizonae,ARIZONA COTTON RAT,Sigmodon arizonae arizonae,Present
+SAGU,Saguaro National Park,Mammal,1,Rodentia,Cricetidae,91745,180350,Active,Sigmodon ochrognathus,Yellow-nosed Cotton Rat,,Present
+SAGU,Saguaro National Park,Mammal,1,Rodentia,Geomyidae,90684,180222,Active,Thomomys bottae,Botta's pocket gopher,,Present
+SAGU,Saguaro National Park,Mammal,1,Rodentia,Heteromyidae,260659,552520,Active,Chaetodipus baileyi,Bailey's pocket mouse,Perognathus baileyi,Present
+SAGU,Saguaro National Park,Mammal,1,Rodentia,Heteromyidae,260582,552484,Active,Chaetodipus intermedius,rock pocket mouse,"Chaetodipus intermedius intermedius, Perognathus intermedius",Present
+SAGU,Saguaro National Park,Mammal,1,Rodentia,Heteromyidae,260586,552486,Active,Chaetodipus penicillatus,Sonoran Desert pocket mouse,Perognathus penicillatus,Present
+SAGU,Saguaro National Park,Mammal,1,Rodentia,Heteromyidae,90705,180241,Active,Dipodomys merriami,Merriam's kangaroo rat,,Present
+SAGU,Saguaro National Park,Mammal,1,Rodentia,Heteromyidae,90721,180256,Active,Perognathus amplus,Arizona pocket mouse,,Present
+SAGU,Saguaro National Park,Mammal,1,Rodentia,Sciuridae,90635,180179,Active,Ammospermophilus harrisii,"Harris antelope squirrel, Harris' antelope squirrel",Citellus harisi,Present
+SAGU,Saguaro National Park,Mammal,1,Rodentia,Sciuridae,89705,180173,Active,Sciurus aberti,Abert's squirrel,,Present
+SAGU,Saguaro National Park,Mammal,1,Rodentia,Sciuridae,89706,180174,Active,Sciurus arizonensis,Arizona gray squirrel,,Present
+SAGU,Saguaro National Park,Mammal,1,Rodentia,Sciuridae,89691,180160,Active,Spermophilus tereticaudus,Round-tailed Ground Squirrel,,Present
+SAGU,Saguaro National Park,Mammal,1,Rodentia,Sciuridae,89694,180163,Active,Spermophilus variegatus,rock squirrel,,Present
+SAGU,Saguaro National Park,Mammal,1,Rodentia,Sciuridae,90651,180193,Active,Tamias dorsalis,Cliff Chipmunk,Neotamias dorsalis,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Anguidae,120640,209017,Active,Elgaria kingii,"Arizona Alligator Lizard, Madrean Alligator Lizard",Gerrhonotus kingii,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Colubridae,79769,174202,Active,Arizona elegans,Glossy Snake,,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Colubridae,333291,585779,Active,Chilomeniscus stramineus,Banded Sand Snake,Chilomeniscus cinctus,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Colubridae,79719,174158,Active,Diadophis punctatus,"Ringneck Snake, Ring-necked Snake",,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Colubridae,79803,174233,Active,Hypsiglena torquata,night snake,,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Colubridae,122635,209247,Active,Lampropeltis getula,"Common Kingsnake, Eastern Kingsnake",Lampropeltis getulus,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Colubridae,79757,174192,Active,Lampropeltis pyromelana,"Arizona Mountain Kingsnake, Sonoran Mountain Kingsnake",,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Colubridae,79807,174237,Active,Masticophis bilineatus,Sonoran Whipsnake,Masticophis bilineatus bilineatus,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Colubridae,79808,174238,Active,Masticophis flagellum,Coachwhip,,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Colubridae,79833,174260,Active,Phyllorhynchus browni,"Maricopa Leafnose Snake, Pima Leafnose Snake, Saddled Leafnose Snake, Saddled Leaf-nosed Snake",,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Colubridae,117240,209400,Active,Pituophis catenifer,Gopher snake,Pituophis melanoleucus,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Colubridae,79840,174267,Active,Rhinocheilus lecontei,"Longnose Snake, Long-nosed Snake, Western Long-nosed Snake",,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Colubridae,79842,174269,Active,Salvadora deserticola,"Big Bend patchnose snake, Big Bend patch-nosed snake","Salvadora hexalepis deserticola, Salvadora hexalepis deserticola",Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Colubridae,79844,174270,Active,Salvadora grahamiae,"Eastern Patch-nosed Snake, Mountain Patchnose Snake, Mountain Patch-nosed Snake",,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Colubridae,79845,174271,Active,Salvadora hexalepis,"patchnose snake, western patch-nosed snake",Salvadora hexalepis hexalepis,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Colubridae,79849,174275,Active,Sonora semiannulata,"Ground Snake, Groundsnake, Western Groundsnake",,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Colubridae,80794,174282,Active,Tantilla hobartsmithi,"Smith's Black-headed Snake, Southwestern Blackhead Snake, Southwestern Black-headed Snake",,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Colubridae,79031,174141,Active,Thamnophis cyrtopsis,"Blackneck Garter Snake, Black-necked Garter Snake, Black-necked Gartersnake",,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Colubridae,80804,174291,Active,Trimorphodon biscutatus,lyre snake,Trimorphodon biscutatus lambda,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Crotaphytidae,77570,173912,Active,Crotaphytus collaris,"Collared Lizard, Eastern Collared Lizard",,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Crotaphytidae,78387,173924,Active,Gambelia wislizenii,leopard lizard,,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Elapidae,80872,174352,Active,Micruroides euryxanthus,"Sonoran Coralsnake, Western Coral Snake",,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Eublepharidae,78920,174041,Active,Coleonyx variegatus,Tucson Banded Gecko,Coleonyx variegatus bogerti,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Helodermatidae,79000,174113,Active,Heloderma suspectum,gila monster,,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Iguanidae,78384,173921,Active,Dipsosaurus dorsalis,"Common Desert Iguana, Desert Iguana",,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Iguanidae,77520,173868,Active,Sceloporus clarkii,Clark's Spiny Lizard,,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Iguanidae,77526,173873,Active,Sceloporus magister,desert spiny lizard,Sceloporus magister magister,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Iguanidae,118723,208738,Active,Sceloporus tristichus,"Eastern Fence Lizard, Fence Lizard, Plateau Lizard, Prairie Lizard, Southern Plateau Lizard","Sceloporus undulatus, Sceloporus undulatus tristichus",Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Iguanidae,78420,173954,Active,Urosaurus ornatus,"Tree Liazard, Tree Lizard",,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Iguanidae,78422,173956,Active,Uta stansburiana,side-blotched lizard,,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Leptotyphlopidae,80855,174337,Active,Leptotyphlops humilis,Western blind snake,,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Phrynosomatidae,77563,173906,Active,Callisaurus draconoides,Zebra-tailed Lizard,,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Phrynosomatidae,77568,173910,Active,Cophosaurus texanus,greater earless lizard,"Cophosaurus texanus scitulus, Holbrookia texana",Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Phrynosomatidae,78390,173927,Active,Holbrookia maculata,lesser earless lizard,Holbrookia maculata pulchra,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Phrynosomatidae,285391,564594,Active,Phrynosoma hernandesi,"Short-horned Lizard, Pigmy Short-horned Lizard, Pygmy Short-horned Lizard, Short-horned Lizard","Phrynosoma douglassii, Phrynosoma douglasii",Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Phrynosomatidae,78409,173944,Active,Phrynosoma solare,regal horned lizard,,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Scincidae,78435,173968,Active,Eumeces obsoletus,Great Plains Skink,,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Teiidae,78489,174015,Active,Cnemidophorus burti,Canyon Spotted Whiptail,,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Teiidae,78492,174018,Active,Cnemidophorus flagellicaudus,Gila Spotted Whiptail,,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Teiidae,78500,174025,Active,Cnemidophorus sonorae,Sonoran Spotted Whiptail,,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Teiidae,119618,208940,Active,Cnemidophorus tigris,Western Whiptail,,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Viperidae,80826,174310,Active,Crotalus atrox,westerndiamondback rattlesnake,,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Viperidae,80827,174311,Active,Crotalus cerastes,Sidewinder,,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Viperidae,80830,174314,Active,Crotalus molossus,"Black-tailed Rattlesnake, Western Black-tailed Rattlesnake",,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Viperidae,118341,209548,Active,Crotalus oreganus,Arizona Black Rattlesnake,Crotalus viridis cerberus,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Viperidae,80833,174317,Active,Crotalus scutulatus,"Mojave Rattlesnake, Northern Mohave Rattlesnake",Crotalus scutulatus scutulatus,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Viperidae,80834,174318,Active,Crotalus tigris,tiger rattlesnake,,Present
+SAGU,Saguaro National Park,Reptile,3,Squamata,Viperidae,80835,174319,Active,Crotalus viridis,"Prairie Rattlesnake, Western Rattlesnake",,Present
+SAGU,Saguaro National Park,Reptile,3,Testudines,Emydidae,76884,173778,Active,Terrapene ornata,"Ornate Box Turtle, Western Box Turtle",,Present
+SAGU,Saguaro National Park,Reptile,3,Testudines,Kinosternidae,76873,173768,Active,Kinosternon sonoriense,Sonora Mud Turtle,,Present
+SAGU,Saguaro National Park,Reptile,3,Testudines,Testudinidae,77507,173856,Active,Gopherus agassizii,"Agassiz's Desert Tortoise, Desert Tortoise, Mohave Desert Tortoise, Mojave Desert Tortoise",Gopherus agassizii sonoran,Present

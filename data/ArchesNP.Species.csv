@@ -1,0 +1,260 @@
+Park Code,Park Name,Category,Category Sort,Order,Family,Taxon Code,TSN,Taxon Record Status,Scientific Name,Common Names,Synonyms,Occurrence
+ARCH,Arches National Park,Mammal,1,Artiodactyla,Antilocapridae,95067,180717,Active,Antilocapra americana,Pronghorn,,Present
+ARCH,Arches National Park,Mammal,1,Artiodactyla,Bovidae,95061,180711,Active,Ovis canadensis,Bighorn Sheep,Ovis canadensis nelsoni,Present
+ARCH,Arches National Park,Mammal,1,Artiodactyla,Cervidae,155879,-501601,Inactive,Cervus canadensis,Elk,Cervus elaphus,Present
+ARCH,Arches National Park,Mammal,1,Artiodactyla,Cervidae,95045,180698,Active,Odocoileus hemionus,Mule Deer,,Present
+ARCH,Arches National Park,Mammal,1,Carnivora,Canidae,93340,180599,Active,Canis latrans,Coyote,,Present
+ARCH,Arches National Park,Mammal,1,Carnivora,Canidae,93352,180609,Active,Urocyon cinereoargenteus,Common Gray Fox,,Present
+ARCH,Arches National Park,Mammal,1,Carnivora,Canidae,93349,180606,Active,Vulpes macrotis,Kit Fox,,Present
+ARCH,Arches National Park,Mammal,1,Carnivora,Canidae,93347,180604,Active,Vulpes vulpes,Red Fox,,Present
+ARCH,Arches National Park,Mammal,1,Carnivora,Felidae,93322,180582,Active,Lynx rufus,Bobcat,Felis rufus,Present
+ARCH,Arches National Park,Mammal,1,Carnivora,Felidae,260571,552479,Active,Puma concolor,Mountain Lion,Felis concolor,Present
+ARCH,Arches National Park,Mammal,1,Carnivora,Mephitidae,93300,180562,Active,Mephitis mephitis,Striped Skunk,,Present
+ARCH,Arches National Park,Mammal,1,Carnivora,Mephitidae,264255,552466,Active,Spilogale gracilis,Western Spotted Skunk,,Present
+ARCH,Arches National Park,Mammal,1,Carnivora,Mustelidae,93285,180549,Active,Lontra canadensis,Northern River Otter,"Lutra canadensis sonorae, Lutra canadensis",Present
+ARCH,Arches National Park,Mammal,1,Carnivora,Mustelidae,93293,180556,Active,Mustela frenata,Long-tailed Weasel,,Probably Present
+ARCH,Arches National Park,Mammal,1,Carnivora,Mustelidae,93303,180565,Active,Taxidea taxus,American Badger,,Present
+ARCH,Arches National Park,Mammal,1,Carnivora,Procyonidae,93316,180577,Active,Bassariscus astutus,Ringtail,,Present
+ARCH,Arches National Park,Mammal,1,Carnivora,Procyonidae,93314,180575,Active,Procyon lotor,Northern Raccoon,,Present
+ARCH,Arches National Park,Mammal,1,Carnivora,Ursidae,93280,180544,Active,Ursus americanus,American Black Bear,,Present
+ARCH,Arches National Park,Mammal,1,Chiroptera,Molossidae,89608,180086,Active,Nyctinomops macrotis,Big Free-tailed Bat,Tadarida macrotis,Present
+ARCH,Arches National Park,Mammal,1,Chiroptera,Molossidae,89610,180088,Active,Tadarida brasiliensis,Brazilian Free-tailed Bat,"Tadarida brasiliensis mexicana, Tadarida mexicana",Present
+ARCH,Arches National Park,Mammal,1,Chiroptera,Vespertilionidae,88728,180006,Active,Antrozous pallidus,Pallid Bat,,Present
+ARCH,Arches National Park,Mammal,1,Chiroptera,Vespertilionidae,115231,203452,Active,Corynorhinus townsendii,Townsend's Big-eared Bat,Plecotus townsendii,Probably Present
+ARCH,Arches National Park,Mammal,1,Chiroptera,Vespertilionidae,88730,180008,Active,Eptesicus fuscus,Big Brown Bat,,Probably Present
+ARCH,Arches National Park,Mammal,1,Chiroptera,Vespertilionidae,88733,180010,Active,Euderma maculatum,Spotted Bat,,Probably Present
+ARCH,Arches National Park,Mammal,1,Chiroptera,Vespertilionidae,88735,180012,Active,Idionycteris phyllotis,Allen's Big-eared Bat,,Probably Present
+ARCH,Arches National Park,Mammal,1,Chiroptera,Vespertilionidae,88737,180014,Active,Lasionycteris noctivagans,Silver-haired Bat,,Probably Present
+ARCH,Arches National Park,Mammal,1,Chiroptera,Vespertilionidae,88740,180017,Active,Lasiurus cinereus,Hoary Bat,,Present
+ARCH,Arches National Park,Mammal,1,Chiroptera,Vespertilionidae,88710,179991,Active,Myotis californicus,California Myotis,Myotis californicus stephensi,Present
+ARCH,Arches National Park,Mammal,1,Chiroptera,Vespertilionidae,88713,179994,Active,Myotis ciliolabrum,Western Small-footed Myotis,,Probably Present
+ARCH,Arches National Park,Mammal,1,Chiroptera,Vespertilionidae,88714,179995,Active,Myotis evotis,Long-eared Myotis,,Probably Present
+ARCH,Arches National Park,Mammal,1,Chiroptera,Vespertilionidae,88724,180002,Active,Myotis thysanodes,Fringed Myotis,Myotis thysanodes thysanodes,Probably Present
+ARCH,Arches National Park,Mammal,1,Chiroptera,Vespertilionidae,88709,179990,Active,Myotis volans,Long-legged Myotis,,Probably Present
+ARCH,Arches National Park,Mammal,1,Chiroptera,Vespertilionidae,88726,180004,Active,Myotis yumanensis,Yuma Myotis,Myotis yumanensis yumanensis,Present
+ARCH,Arches National Park,Mammal,1,Chiroptera,Vespertilionidae,88748,180024,Active,Pipistrellus hesperus,Western Pipistrelle,,Present
+ARCH,Arches National Park,Mammal,1,Eulipotyphla,Soricidae,88690,179973,Active,Notiosorex crawfordi,Crawford's Desert Shrew,,Probably Present
+ARCH,Arches National Park,Mammal,1,Eulipotyphla,Soricidae,88663,179949,Active,Sorex merriami,Merriam's Shrew,,Probably Present
+ARCH,Arches National Park,Mammal,1,Lagomorpha,Leporidae,89641,180115,Active,Lepus californicus,Black-tailed Jackrabbit,,Present
+ARCH,Arches National Park,Mammal,1,Lagomorpha,Leporidae,89649,180122,Active,Sylvilagus audubonii,Desert Cottontail,,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Castoridae,90673,180212,Active,Castor canadensis,American Beaver,,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Cricetidae,91768,180371,Active,Neotoma cinerea,Bushy-tailed Woodrat,,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Cricetidae,91771,180374,Active,Neotoma lepida,Desert Woodrat,,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Cricetidae,91709,180318,Active,Ondatra zibethicus,Common Muskrat,,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Cricetidae,91780,180382,Active,Onychomys leucogaster,Northern Grasshopper Mouse,,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Cricetidae,90750,180282,Active,Peromyscus boylii,Brush Mouse,,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Cricetidae,90752,180284,Active,Peromyscus crinitus,Canyon Mouse,,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Cricetidae,90743,180276,Active,Peromyscus maniculatus,Deer Mouse,,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Cricetidae,90760,180291,Active,Peromyscus truei,Pinon Mouse,,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Cricetidae,91737,180343,Active,Reithrodontomys megalotis,Western Harvest Mouse,,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Erethizontidae,91792,180393,Active,Erethizon dorsatum,North American Porcupine,,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Geomyidae,90684,180222,Active,Thomomys bottae,Botta's Pocket Gopher,,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Heteromyidae,90708,180244,Active,Dipodomys ordii,Ord's Kangaroo Rat,,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Heteromyidae,90727,180261,Active,Perognathus flavescens,Plains Pocket Mouse,Perognathus apache,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Sciuridae,90638,180181,Active,Ammospermophilus leucurus,White-tailed Antelope Squirrel,Citellus leucurus,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Sciuridae,90642,180185,Active,Cynomys leucurus,White-tailed Prairie Dog,,Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Sciuridae,694891,-756511,Active,Neotamias rufus,Hopi Chipmunk,"Tamias rufus, Eutamias quadrivittatus",Present
+ARCH,Arches National Park,Mammal,1,Rodentia,Sciuridae,89694,180163,Active,Spermophilus variegatus,Rock Squirrel,,Present
+ARCH,Arches National Park,Bird,2,Accipitriformes,Accipitridae,79517,175309,Active,Accipiter cooperii,Cooper's Hawk,,Present
+ARCH,Arches National Park,Bird,2,Accipitriformes,Accipitridae,79508,175300,Active,Accipiter gentilis,Northern Goshawk,,Present
+ARCH,Arches National Park,Bird,2,Accipitriformes,Accipitridae,79512,175304,Active,Accipiter striatus,Sharp-shinned Hawk,,Present
+ARCH,Arches National Park,Bird,2,Accipitriformes,Accipitridae,80429,175407,Active,Aquila chrysaetos,Golden Eagle,,Present
+ARCH,Arches National Park,Bird,2,Accipitriformes,Accipitridae,79563,175350,Active,Buteo jamaicensis,Red-tailed Hawk,,Present
+ARCH,Arches National Park,Bird,2,Accipitriformes,Accipitridae,80395,175377,Active,Buteo regalis,Ferruginous Hawk,,Probably Present
+ARCH,Arches National Park,Bird,2,Accipitriformes,Accipitridae,79581,175367,Active,Buteo swainsoni,Swainson's Hawk,,Present
+ARCH,Arches National Park,Bird,2,Accipitriformes,Accipitridae,80455,175430,Active,Circus cyaneus,Northern Harrier,,Present
+ARCH,Arches National Park,Bird,2,Accipitriformes,Accipitridae,80444,175420,Active,Haliaeetus leucocephalus,Bald Eagle,,Present
+ARCH,Arches National Park,Bird,2,Accipitriformes,Cathartidae,79468,175265,Active,Cathartes aura,Turkey Vulture,,Present
+ARCH,Arches National Park,Bird,2,Accipitriformes,Cathartidae,79478,175274,Active,Gymnogyps californianus,California Condor,,Present
+ARCH,Arches National Park,Bird,2,Accipitriformes,Pandionidae,81838,175590,Active,Pandion haliaetus,Osprey,,Present
+ARCH,Arches National Park,Bird,2,Anseriformes,Anatidae,77782,175074,Active,Anas acuta,Northern Pintail,,Probably Present
+ARCH,Arches National Park,Bird,2,Anseriformes,Anatidae,77804,175094,Active,Anas americana,American Wigeon,,Present
+ARCH,Arches National Park,Bird,2,Anseriformes,Anatidae,77790,175081,Active,Anas crecca,Green-winged Teal,,Present
+ARCH,Arches National Park,Bird,2,Anseriformes,Anatidae,77798,175089,Active,Anas cyanoptera,Cinnamon Teal,,Present
+ARCH,Arches National Park,Bird,2,Anseriformes,Anatidae,77770,175063,Active,Anas platyrhynchos,Mallard,,Present
+ARCH,Arches National Park,Bird,2,Anseriformes,Anatidae,77781,175073,Active,Anas strepera,Gadwall,,Probably Present
+ARCH,Arches National Park,Bird,2,Anseriformes,Anatidae,76625,174999,Active,Branta canadensis,Canada Goose,,Present
+ARCH,Arches National Park,Bird,2,Anseriformes,Anatidae,78527,175141,Active,Bucephala clangula,Common Goldeneye,,Present
+ARCH,Arches National Park,Bird,2,Anseriformes,Anatidae,78575,175185,Active,Mergus merganser,Common Merganser,,Present
+ARCH,Arches National Park,Bird,2,Apodiformes,Apodidae,83060,178014,Active,Aeronautes saxatalis,White-throated Swift,,Present
+ARCH,Arches National Park,Bird,2,Apodiformes,Trochilidae,83885,178033,Active,Archilochus alexandri,Black-chinned Hummingbird,,Present
+ARCH,Arches National Park,Bird,2,Apodiformes,Trochilidae,83890,178038,Active,Selasphorus platycercus,Broad-tailed Hummingbird,,Present
+ARCH,Arches National Park,Bird,2,Apodiformes,Trochilidae,83893,178040,Active,Selasphorus rufus,Rufous Hummingbird,,Present
+ARCH,Arches National Park,Bird,2,Caprimulgiformes,Caprimulgidae,83019,177979,Active,Chordeiles minor,Common Nighthawk,,Present
+ARCH,Arches National Park,Bird,2,Caprimulgiformes,Caprimulgidae,271703,555544,Active,Phalaenoptilus nuttallii,Common Poorwill,,Present
+ARCH,Arches National Park,Bird,2,Charadriiformes,Charadriidae,77646,176520,Active,Charadrius vociferus,Killdeer,,Present
+ARCH,Arches National Park,Bird,2,Charadriiformes,Scolopacidae,164584,-505721,Inactive,Actitis macularius,Spotted Sandpiper,,Present
+ARCH,Arches National Park,Bird,2,Charadriiformes,Scolopacidae,79270,176656,Active,Calidris minutilla,Least Sandpiper,,Present
+ARCH,Arches National Park,Bird,2,Charadriiformes,Scolopacidae,631807,726048,Active,Gallinago delicata,Wilson's Snipe,Gallinago gallinago,Present
+ARCH,Arches National Park,Bird,2,Charadriiformes,Scolopacidae,79295,176679,Active,Limnodromus scolopaceus,Long-billed Dowitcher,,Probably Present
+ARCH,Arches National Park,Bird,2,Charadriiformes,Scolopacidae,79200,176593,Active,Numenius americanus,Long-billed Curlew,,Present
+ARCH,Arches National Park,Bird,2,Charadriiformes,Scolopacidae,79225,176615,Active,Tringa solitaria,Solitary Sandpiper,,Present
+ARCH,Arches National Park,Bird,2,Columbiformes,Columbidae,82677,177071,Active,Columba livia,Rock Pigeon,,Present
+ARCH,Arches National Park,Bird,2,Columbiformes,Columbidae,82752,177139,Active,Streptopelia decaocto,Eurasian Collared-Dove,,Present
+ARCH,Arches National Park,Bird,2,Columbiformes,Columbidae,82733,177121,Active,Zenaida asiatica,White-winged Dove,,Present
+ARCH,Arches National Park,Bird,2,Columbiformes,Columbidae,82737,177125,Active,Zenaida macroura,Mourning Dove,,Present
+ARCH,Arches National Park,Bird,2,Coraciiformes,Alcedinidae,83980,178119,Active,Ceryle alcyon,Belted Kingfisher,,Present
+ARCH,Arches National Park,Bird,2,Cuculiformes,Cuculidae,89102,177831,Active,Coccyzus americanus,Yellow-billed Cuckoo,,Present
+ARCH,Arches National Park,Bird,2,Falconiformes,Falconidae,82533,175613,Active,Falco columbarius,Merlin,,Present
+ARCH,Arches National Park,Bird,2,Falconiformes,Falconidae,81853,175603,Active,Falco mexicanus,Prairie Falcon,,Present
+ARCH,Arches National Park,Bird,2,Falconiformes,Falconidae,81854,175604,Active,Falco peregrinus,Peregrine Falcon,,Present
+ARCH,Arches National Park,Bird,2,Falconiformes,Falconidae,82543,175622,Active,Falco sparverius,American Kestrel,,Present
+ARCH,Arches National Park,Bird,2,Galliformes,Phasianidae,84331,175908,Active,Alectoris chukar,Chukar,,Present
+ARCH,Arches National Park,Bird,2,Galliformes,Phasianidae,86451,176136,Active,Meleagris gallopavo,Wild Turkey,,Present
+ARCH,Arches National Park,Bird,2,Gruiformes,Rallidae,87235,176242,Active,Porzana carolina,Sora,,Present
+ARCH,Arches National Park,Bird,2,Gruiformes,Rallidae,87212,176221,Active,Rallus limicola,Virginia Rail,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Aegithalidae,90923,178764,Active,Psaltriparus minimus,Bushtit,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Alaudidae,264079,554256,Active,Eremophila alpestris,Horned Lark,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Bombycillidae,88296,178532,Active,Bombycilla cedrorum,Cedar Waxwing,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Cardinalidae,94258,179151,Active,Passerina amoena,Lazuli Bunting,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Cardinalidae,738047,-9778299,Active,Passerina amoena X cyanea,Lazuli x Indigo Bunting hybrid,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Cardinalidae,154775,-501544,Inactive,Passerina caerulea,Blue Grosbeak,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Cardinalidae,94257,179150,Active,Passerina cyanea,Indigo Bunting,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Cardinalidae,94244,179139,Active,Pheucticus ludovicianus,Rose-breasted Grosbeak,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Cardinalidae,94246,179140,Active,Pheucticus melanocephalus,Black-headed Grosbeak,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Cardinalidae,88070,179882,Active,Piranga ludoviciana,Western Tanager,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Certhiidae,90967,178803,Active,Certhia americana,Brown Creeper,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Cinclidae,88300,178536,Active,Cinclus mexicanus,American Dipper,,Probably Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Corvidae,918880,916621,Active,Aphelocoma woodhouseii,Woodhouse's Scrub-Jay,Aphelocoma californica,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Corvidae,87106,179731,Active,Corvus brachyrhynchos,American Crow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Corvidae,87099,179725,Active,Corvus corax,Common Raven,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Corvidae,86257,179685,Active,Cyanocitta stelleri,Steller's Jay,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Corvidae,87124,179748,Active,Gymnorhinus cyanocephalus,Pinyon Jay,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Corvidae,87127,179750,Active,Nucifraga columbiana,Clark's Nutcracker,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Corvidae,154788,-501550,Inactive,Pica hudsonia,Black-billed Magpie,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Fringillidae,95280,179230,Active,Carduelis flammea,Common Redpoll,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Fringillidae,95283,179233,Active,Carduelis pinus,Pine Siskin,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Fringillidae,95284,179234,Active,Carduelis psaltria,Lesser Goldfinch,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Fringillidae,95286,179236,Active,Carduelis tristis,American Goldfinch,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Fringillidae,94301,179190,Active,Carpodacus cassinii,Cassin's Finch,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Fringillidae,94302,179191,Active,Carpodacus mexicanus,House Finch,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Fringillidae,94296,179186,Active,Carpodacus purpureus,Purple Finch,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Fringillidae,94282,179173,Active,Coccothraustes vespertinus,Evening Grosbeak,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Fringillidae,94337,179222,Active,Leucosticte atrata,Black Rosy-Finch,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Fringillidae,94329,179215,Active,Leucosticte tephrocotis,Gray-crowned Rosy-Finch,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Hirundinidae,87409,178448,Active,Hirundo rustica,Barn Swallow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Hirundinidae,87417,178455,Active,Petrochelidon pyrrhonota,Cliff Swallow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Hirundinidae,87396,178436,Active,Riparia riparia,Bank Swallow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Hirundinidae,87404,178443,Active,Stelgidopteryx serripennis,Northern Rough-winged Swallow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Hirundinidae,87391,178431,Active,Tachycineta bicolor,Tree Swallow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Hirundinidae,87386,178427,Active,Tachycineta thalassina,Violet-green Swallow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Icteridae,93613,179045,Active,Agelaius phoeniceus,Red-winged Blackbird,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Icteridae,93667,179094,Active,Euphagus cyanocephalus,Brewer's Blackbird,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Icteridae,264102,554267,Active,Icterus bullockii,Bullock's Oriole,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Icteridae,93654,179082,Active,Icterus parisorum,Scott's Oriole,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Icteridae,94215,179112,Active,Molothrus ater,Brown-headed Cowbird,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Icteridae,93606,179039,Active,Sturnella neglecta,Western Meadowlark,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Icteridae,93611,179043,Active,Xanthocephalus xanthocephalus,Yellow-headed Blackbird,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Laniidae,88273,178511,Active,Lanius excubitor,Northern Shrike,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Laniidae,88277,178515,Active,Lanius ludovicianus,Loggerhead Shrike,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Mimidae,89977,178625,Active,Dumetella carolinensis,Gray Catbird,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Mimidae,88394,178620,Active,Mimus polyglottos,Northern Mockingbird,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Mimidae,90009,178654,Active,Oreoscoptes montanus,Sage Thrasher,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Mimidae,89989,178636,Active,Toxostoma bendirei,Bendire's Thrasher,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Mimidae,89979,178627,Active,Toxostoma rufum,Brown Thrasher,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Motacillidae,266934,554127,Active,Anthus rubescens,American Pipit,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Paridae,153338,-501459,Inactive,Baeolophus ridgwayi,Juniper Titmouse,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Paridae,265874,554382,Active,Poecile atricapillus,Black-capped Chickadee,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Paridae,265880,554385,Active,Poecile gambeli,Mountain Chickadee,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Parulidae,92649,178891,Active,Dendroica coronata,Yellow-rumped Warbler,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Parulidae,92654,178896,Active,Dendroica nigrescens,Black-throated Gray Warbler,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Parulidae,92634,178878,Active,Dendroica petechia,Yellow Warbler,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Parulidae,92655,178897,Active,Dendroica townsendi,Townsend's Warbler,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Parulidae,92708,178944,Active,Geothlypis trichas,Common Yellowthroat,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Parulidae,92730,178964,Active,Icteria virens,Yellow-breasted Chat,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Parulidae,92704,178940,Active,Oporornis tolmiei,MacGillivray's Warbler,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Parulidae,92694,178931,Active,Seiurus noveboracensis,Northern Waterthrush,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Parulidae,92746,178979,Active,Setophaga ruticilla,American Redstart,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Parulidae,91025,178856,Active,Vermivora celata,Orange-crowned Warbler,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Parulidae,92621,178866,Active,Vermivora luciae,Lucy's Warbler,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Parulidae,91031,178861,Active,Vermivora ruficapilla,Nashville Warbler,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Parulidae,92619,178864,Active,Vermivora virginiae,Virginia's Warbler,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Parulidae,92740,178973,Active,Wilsonia pusilla,Wilson's Warbler,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,84736,179395,Active,Amphispiza bilineata,Black-throated Sparrow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,1005406,997723,Active,Artemisiospiza nevadensis,Sagebrush Sparrow,Amphispiza belli,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,83844,179312,Active,Calamospiza melanocorys,Lark Bunting,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,84710,179371,Active,Chondestes grammacus,Lark Sparrow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,163233,-504378,Inactive,Junco hyemalis caniceps,Dark-eyed Junco (Gray-headed),Junco hyemalis,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,84756,179412,Active,Junco hyemalis hyemalis,Dark-eyed Junco (Slate-colored),,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,84760,179416,Active,Junco hyemalis mearnsi,Dark-eyed Junco (Pink-sided),,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,84761,179417,Active,Junco hyemalis oreganus,Dark-eyed Junco (Oregon),,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,85638,179488,Active,Melospiza georgiana,Swamp Sparrow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,85634,179484,Active,Melospiza lincolnii,Lincoln's Sparrow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,85643,179492,Active,Melospiza melodia,Song Sparrow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,83846,179314,Active,Passerculus sandwichensis,Savannah Sparrow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,83842,179310,Active,Pipilo chlorurus,Green-tailed Towhee,Chlorura chlorura,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,265870,554380,Active,Pipilo maculatus,Spotted Towhee,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,84704,179366,Active,Pooecetes gramineus,Vesper Sparrow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,84778,179432,Active,Spizella arborea,American Tree Sparrow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,84795,179448,Active,Spizella atrogularis,Black-chinned Sparrow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,84787,179440,Active,Spizella breweri,Brewer's Sparrow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,84781,179435,Active,Spizella passerina,Chipping Sparrow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,85610,179462,Active,Zonotrichia albicollis,White-throated Sparrow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,85609,179461,Active,Zonotrichia atricapilla,Golden-crowned Sparrow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,85602,179455,Active,Zonotrichia leucophrys,White-crowned Sparrow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passerellidae,84802,179454,Active,Zonotrichia querula,Harris' Sparrow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Passeridae,86194,179628,Active,Passer domesticus,House Sparrow,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Polioptilidae,88038,179853,Active,Polioptila caerulea,Blue-gray Gnatcatcher,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Regulidae,88057,179870,Active,Regulus calendula,Ruby-crowned Kinglet,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Regulidae,88051,179865,Active,Regulus satrapa,Golden-crowned Kinglet,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Sittidae,90945,178784,Active,Sitta canadensis,Red-breasted Nuthatch,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Sittidae,90935,178775,Active,Sitta carolinensis,White-breasted Nuthatch,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Sturnidae,86204,179637,Active,Sturnus vulgaris,European Starling,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Troglodytidae,88383,178610,Active,Catherpes mexicanus,Canyon Wren,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Troglodytidae,88380,178608,Active,Cistothorus palustris,Marsh Wren,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Troglodytidae,88387,178614,Active,Salpinctes obsoletus,Rock Wren,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Troglodytidae,88329,178562,Active,Thryomanes bewickii,Bewick's Wren,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Troglodytidae,88306,178541,Active,Troglodytes aedon,House Wren,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Turdidae,87158,179779,Active,Catharus guttatus,Hermit Thrush,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Turdidae,88006,179824,Active,Myadestes townsendi,Townsend's Solitaire,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Turdidae,87195,179811,Active,Sialia currucoides,Mountain Bluebird,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Turdidae,87189,179806,Active,Sialia mexicana,Western Bluebird,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Turdidae,87136,179759,Active,Turdus migratorius,American Robin,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Tyrannidae,267828,554221,Active,Contopus cooperi,Olive-sided Flycatcher,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Tyrannidae,85848,178360,Active,Contopus sordidulus,Western Wood-Pewee,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Tyrannidae,85832,178346,Active,Empidonax oberholseri,Dusky Flycatcher,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Tyrannidae,264077,554255,Active,Empidonax occidentalis,Cordilleran Flycatcher,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Tyrannidae,85827,178341,Active,Empidonax traillii,Willow Flycatcher,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Tyrannidae,85833,178347,Active,Empidonax wrightii,Gray Flycatcher,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Tyrannidae,85799,178316,Active,Myiarchus cinerascens,Ash-throated Flycatcher,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Tyrannidae,85815,178330,Active,Sayornis nigricans,Black Phoebe,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Tyrannidae,85818,178333,Active,Sayornis saya,Say's Phoebe,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Tyrannidae,85766,178287,Active,Tyrannus verticalis,Western Kingbird,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Tyrannidae,85767,178288,Active,Tyrannus vociferans,Cassin's Kingbird,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Vireonidae,93589,179023,Active,Vireo gilvus,Warbling Vireo,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Vireonidae,266908,554477,Active,Vireo plumbeus,Plumbeous Vireo,,Present
+ARCH,Arches National Park,Bird,2,Passeriformes,Vireonidae,93572,179008,Active,Vireo vicinior,Gray Vireo,,Present
+ARCH,Arches National Park,Bird,2,Pelecaniformes,Ardeidae,266951,554135,Active,Ardea alba,Great Egret,,Present
+ARCH,Arches National Park,Bird,2,Pelecaniformes,Ardeidae,84416,174773,Active,Ardea herodias,Great Blue Heron,,Present
+ARCH,Arches National Park,Bird,2,Pelecaniformes,Ardeidae,84461,174813,Active,Egretta thula,Snowy Egret,,Present
+ARCH,Arches National Park,Bird,2,Pelecaniformes,Ardeidae,84482,174832,Active,Nycticorax nycticorax,Black-crowned Night-Heron,,Present
+ARCH,Arches National Park,Bird,2,Pelecaniformes,Threskiornithidae,85521,174926,Active,Plegadis chihi,White-faced Ibis,,Probably Present
+ARCH,Arches National Park,Bird,2,Piciformes,Picidae,84820,178154,Active,Colaptes auratus,Northern Flicker,,Present
+ARCH,Arches National Park,Bird,2,Piciformes,Picidae,84866,178196,Active,Melanerpes lewis,Lewis' Woodpecker,,Present
+ARCH,Arches National Park,Bird,2,Piciformes,Picidae,84936,178259,Active,Picoides pubescens,Downy Woodpecker,,Present
+ARCH,Arches National Park,Bird,2,Piciformes,Picidae,85739,178262,Active,Picoides villosus,Hairy Woodpecker,,Present
+ARCH,Arches National Park,Bird,2,Piciformes,Picidae,84884,178211,Active,Sphyrapicus nuchalis,Red-naped Sapsucker,,Present
+ARCH,Arches National Park,Bird,2,Piciformes,Picidae,84880,178208,Active,Sphyrapicus thyroideus,Williamson's Sapsucker,,Present
+ARCH,Arches National Park,Bird,2,Piciformes,Picidae,84874,178202,Active,Sphyrapicus varius,Yellow-bellied Sapsucker,,Present
+ARCH,Arches National Park,Bird,2,Podicipediformes,Podicipedidae,81710,174503,Active,Aechmophorus occidentalis,Western Grebe,,Present
+ARCH,Arches National Park,Bird,2,Podicipediformes,Podicipedidae,81689,174485,Active,Podiceps nigricollis,Eared Grebe,,Present
+ARCH,Arches National Park,Bird,2,Strigiformes,Strigidae,82971,177935,Active,Asio flammeus,Short-eared Owl,,Present
+ARCH,Arches National Park,Bird,2,Strigiformes,Strigidae,82968,177932,Active,Asio otus,Long-eared Owl,,Present
+ARCH,Arches National Park,Bird,2,Strigiformes,Strigidae,82983,177946,Active,Athene cunicularia,Burrowing Owl,,Present
+ARCH,Arches National Park,Bird,2,Strigiformes,Strigidae,80772,177884,Active,Bubo virginianus,Great Horned Owl,,Present
+ARCH,Arches National Park,Bird,2,Strigiformes,Strigidae,543207,686659,Active,Megascops kennicottii,Western Screech-Owl,,Present
+ARCH,Arches National Park,Reptile,3,Squamata,Colubridae,681737,-750136,Inactive,Elaphe emoryi,Great Plains ratsnake,Elaphe guttata emoryi,Probably Present
+ARCH,Arches National Park,Reptile,3,Squamata,Colubridae,79803,174233,Active,Hypsiglena torquata,nightsnake,,Present
+ARCH,Arches National Park,Reptile,3,Squamata,Colubridae,79811,174240,Active,Masticophis taeniatus,striped whipsnake,,Present
+ARCH,Arches National Park,Reptile,3,Squamata,Colubridae,117240,209400,Active,Pituophis catenifer,gophersnake,Pituophis melanoleucus deserticola,Present
+ARCH,Arches National Park,Reptile,3,Squamata,Colubridae,79031,174141,Active,Thamnophis cyrtopsis,black-necked gartersnake,Thamnophis cyrtopsis cyrtopsis,Present
+ARCH,Arches National Park,Reptile,3,Squamata,Colubridae,79032,174142,Active,Thamnophis elegans,terrestrial gartersnake,Thamnophis elegans vagrans,Present
+ARCH,Arches National Park,Reptile,3,Squamata,Crotaphytidae,77570,173912,Active,Crotaphytus collaris,eastern collared lizard,Crotaphytus collaris baileyi,Present
+ARCH,Arches National Park,Reptile,3,Squamata,Crotaphytidae,78387,173924,Active,Gambelia wislizenii,long-nosed leopard lizard,Gambelia wislizenii punctata,Present
+ARCH,Arches National Park,Reptile,3,Squamata,Iguanidae,77523,173870,Active,Sceloporus graciosus,common sagebrush lizard,Sceloporus graciosus graciosus,Present
+ARCH,Arches National Park,Reptile,3,Squamata,Iguanidae,118723,208738,Active,Sceloporus tristichus,plateau lizard,"Sceloporus undulatus, Sceloporus undulatus elongatus",Present
+ARCH,Arches National Park,Reptile,3,Squamata,Iguanidae,78420,173954,Active,Urosaurus ornatus,tree lizard,Urosaurus ornatus wrighti,Present
+ARCH,Arches National Park,Reptile,3,Squamata,Iguanidae,78422,173956,Active,Uta stansburiana,side-blotched lizard,,Present
+ARCH,Arches National Park,Reptile,3,Squamata,Phrynosomatidae,285391,564594,Active,Phrynosoma hernandesi,greater short-horned lizard,Phrynosoma douglasii hernandesi,Present
+ARCH,Arches National Park,Reptile,3,Squamata,Teiidae,119618,208940,Active,Cnemidophorus tigris,western whiptail,Cnemidophorus tigris septentrionalis,Present
+ARCH,Arches National Park,Reptile,3,Squamata,Viperidae,538632,683064,Active,Crotalus oreganus concolor,midget faded rattlesnake,Crotalus viridis concolor,Present

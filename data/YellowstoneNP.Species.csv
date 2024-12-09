@@ -1,0 +1,75 @@
+Park Code,Park Name,Category,Category Sort,Order,Family,Taxon Code,TSN,Taxon Record Status,Scientific Name,Common Names,Synonyms,Occurrence
+YELL,Yellowstone National Park,Mammal,1,Artiodactyla,Antilocapridae,95067,180717,Active,Antilocapra americana,"antelope, pronghorn",,Present
+YELL,Yellowstone National Park,Mammal,1,Artiodactyla,Bovidae,95055,180706,Active,Bison bison,"bison, buffalo",,Present
+YELL,Yellowstone National Park,Mammal,1,Artiodactyla,Bovidae,95063,180713,Active,Oreamnos americanus,"mountain goat, Mountain Goat, Rocky Mountain goat",,Present
+YELL,Yellowstone National Park,Mammal,1,Artiodactyla,Bovidae,95061,180711,Active,Ovis canadensis,"bighorn sheep, Bighorn Sheep",,Present
+YELL,Yellowstone National Park,Mammal,1,Artiodactyla,Cervidae,95052,180703,Active,Alces alces,"Eurasian Elk, moose",,Present
+YELL,Yellowstone National Park,Mammal,1,Artiodactyla,Cervidae,891452,898973,Active,Alces alces shirasi,Yellowstone moose,,Present
+YELL,Yellowstone National Park,Mammal,1,Artiodactyla,Cervidae,95042,180695,Active,Cervus elaphus,Rocky Mountain Elk,,Present
+YELL,Yellowstone National Park,Mammal,1,Artiodactyla,Cervidae,95045,180698,Active,Odocoileus hemionus,"mule deer, Mule Deer",,Present
+YELL,Yellowstone National Park,Mammal,1,Artiodactyla,Cervidae,95046,180699,Active,Odocoileus virginianus,"white-tailed deer, White-tailed Deer",,Present
+YELL,Yellowstone National Park,Mammal,1,Carnivora,Canidae,93340,180599,Active,Canis latrans,Coyote,,Present
+YELL,Yellowstone National Park,Mammal,1,Carnivora,Canidae,93337,180596,Active,Canis lupus,"Gray Wolf, Wolf",,Present
+YELL,Yellowstone National Park,Mammal,1,Carnivora,Canidae,93347,180604,Active,Vulpes vulpes,Red Fox,,Present
+YELL,Yellowstone National Park,Mammal,1,Carnivora,Felidae,93325,180585,Active,Lynx canadensis,"Canada lynx, Canadian Lynx, lynx",,Present
+YELL,Yellowstone National Park,Mammal,1,Carnivora,Felidae,93322,180582,Active,Lynx rufus,Bobcat,Felis rufus,Present
+YELL,Yellowstone National Park,Mammal,1,Carnivora,Felidae,260571,552479,Active,Puma concolor,"Catamount, Cougar, Mountain Lion, Puma",,Present
+YELL,Yellowstone National Park,Mammal,1,Carnivora,Mephitidae,93300,180562,Active,Mephitis mephitis,Striped Skunk,,Present
+YELL,Yellowstone National Park,Mammal,1,Carnivora,Mustelidae,93288,180551,Active,Gulo gulo,North American wolverine,Gulo luscus,Present
+YELL,Yellowstone National Park,Mammal,1,Carnivora,Mustelidae,93311,180572,Active,Lutra canadensis,River Otter,,Present
+YELL,Yellowstone National Park,Mammal,1,Carnivora,Mustelidae,93296,180559,Active,Martes americana,Pine Marten,,Present
+YELL,Yellowstone National Park,Mammal,1,Carnivora,Mustelidae,93292,180555,Active,Mustela erminea,"ermine, short tailed weasel",,Present
+YELL,Yellowstone National Park,Mammal,1,Carnivora,Mustelidae,93293,180556,Active,Mustela frenata,Long-tailed Weasel,,Present
+YELL,Yellowstone National Park,Mammal,1,Carnivora,Mustelidae,93290,180553,Active,Mustela vison,American Mink,,Present
+YELL,Yellowstone National Park,Mammal,1,Carnivora,Mustelidae,93303,180565,Active,Taxidea taxus,"American Badger, Badger",,Present
+YELL,Yellowstone National Park,Mammal,1,Carnivora,Procyonidae,93314,180575,Active,Procyon lotor,"common raccoon, Northern Raccoon, Raccoon",,Present
+YELL,Yellowstone National Park,Mammal,1,Carnivora,Ursidae,93280,180544,Active,Ursus americanus,"American Black Bear, black bear",,Present
+YELL,Yellowstone National Park,Mammal,1,Carnivora,Ursidae,107229,202385,Active,Ursus arctos horribilis,Grizzly Bear,,Present
+YELL,Yellowstone National Park,Mammal,1,Chiroptera,Vespertilionidae,115231,203452,Active,Corynorhinus townsendii,"pale Townsend's big-eared bat, Pacific Townsend's big-eared bat, Townsend's big-eared bat","Plecotus townsendii pallescens, Plecotus townsendii townsendii",Present
+YELL,Yellowstone National Park,Mammal,1,Chiroptera,Vespertilionidae,88730,180008,Active,Eptesicus fuscus,Big Brown Bat,,Present
+YELL,Yellowstone National Park,Mammal,1,Chiroptera,Vespertilionidae,88737,180014,Active,Lasionycteris noctivagans,"Black Bat, Silver-black Bat, Silver-haired Bat",,Present
+YELL,Yellowstone National Park,Mammal,1,Chiroptera,Vespertilionidae,88740,180017,Active,Lasiurus cinereus,"Hoary Bat, Northern Hoary Bat",,Present
+YELL,Yellowstone National Park,Mammal,1,Chiroptera,Vespertilionidae,88710,179991,Active,Myotis californicus,"California Myotis, Californian Myotis",,Present
+YELL,Yellowstone National Park,Mammal,1,Chiroptera,Vespertilionidae,88714,179995,Active,Myotis evotis,"Long-eared Myotis, Western Long-eared Bat",,Probably Present
+YELL,Yellowstone National Park,Mammal,1,Chiroptera,Vespertilionidae,88706,179988,Active,Myotis lucifugus,"Little Brown Bat, Little Brown Myotis",,Present
+YELL,Yellowstone National Park,Mammal,1,Chiroptera,Vespertilionidae,88724,180002,Active,Myotis thysanodes,Fringed Myotis,,Present
+YELL,Yellowstone National Park,Mammal,1,Chiroptera,Vespertilionidae,88709,179990,Active,Myotis volans,Long-legged Myotis,,Present
+YELL,Yellowstone National Park,Mammal,1,Chiroptera,Vespertilionidae,88726,180004,Active,Myotis yumanensis,Yuma Myotis,,Probably Present
+YELL,Yellowstone National Park,Mammal,1,Eulipotyphla,Soricidae,88122,179929,Active,Sorex cinereus,"Cinereus Shrew, common shrew, Masked Shrew",,Present
+YELL,Yellowstone National Park,Mammal,1,Eulipotyphla,Soricidae,88665,179950,Active,Sorex monticolus,dusky shrew,,Present
+YELL,Yellowstone National Park,Mammal,1,Eulipotyphla,Soricidae,88666,179951,Active,Sorex nanus,"Dwarf Shrew, Rocky Mountain dwarf shrew",,Present
+YELL,Yellowstone National Park,Mammal,1,Eulipotyphla,Soricidae,88127,179933,Active,Sorex palustris,"American Water Shrew, northern water shrew, Water Shrew",,Present
+YELL,Yellowstone National Park,Mammal,1,Eulipotyphla,Soricidae,88669,179954,Active,Sorex preblei,"malheur shrew, Preble's Shrew",,Present
+YELL,Yellowstone National Park,Mammal,1,Lagomorpha,Leporidae,89638,180112,Active,Lepus americanus,"Snowshoe Hare, Varying Hare",,Present
+YELL,Yellowstone National Park,Mammal,1,Lagomorpha,Leporidae,89644,180118,Active,Lepus townsendii,"White-tailed Jack Rabbit, White-tailed Jackrabbit",,Present
+YELL,Yellowstone National Park,Mammal,1,Lagomorpha,Leporidae,89649,180122,Active,Sylvilagus audubonii,"Audubon's Cottontail, Desert Cottontail",,Present
+YELL,Yellowstone National Park,Mammal,1,Lagomorpha,Leporidae,89653,180126,Active,Sylvilagus nuttallii,mountain cottontail,,Present
+YELL,Yellowstone National Park,Mammal,1,Lagomorpha,Ochotonidae,89634,180109,Active,Ochotona princeps,"American Pika, Cony, Hay-maker, Little Chief Hare, Mouse Hare, Piping Hare, Rock Rabbit, Southern Pika, Whistling Hare",,Present
+YELL,Yellowstone National Park,Mammal,1,Rodentia,Castoridae,90673,180212,Active,Castor canadensis,American Beaver,,Present
+YELL,Yellowstone National Park,Mammal,1,Rodentia,Cricetidae,90763,180294,Active,Clethrionomys gapperi,Southern Red-backed Vole,,Present
+YELL,Yellowstone National Park,Mammal,1,Rodentia,Cricetidae,90768,180299,Active,Microtus longicaudus,"Coronation Island vole, Long-tailed Vole",,Present
+YELL,Yellowstone National Park,Mammal,1,Rodentia,Cricetidae,91701,180310,Active,Microtus montanus,Montane Vole,,Present
+YELL,Yellowstone National Park,Mammal,1,Rodentia,Cricetidae,90766,180297,Active,Microtus pennsylvanicus,Meadow Vole,,Present
+YELL,Yellowstone National Park,Mammal,1,Rodentia,Cricetidae,91706,180315,Active,Microtus richardsoni,Richardson water vole,,Present
+YELL,Yellowstone National Park,Mammal,1,Rodentia,Cricetidae,91768,180371,Active,Neotoma cinerea,Bushy-tailed Woodrat,,Present
+YELL,Yellowstone National Park,Mammal,1,Rodentia,Cricetidae,91709,180318,Active,Ondatra zibethicus,"Common Muskrat, Muskbeaver, Muskrat",,Present
+YELL,Yellowstone National Park,Mammal,1,Rodentia,Cricetidae,90743,180276,Active,Peromyscus maniculatus,"Deer Mouse, North American Deermouse",,Present
+YELL,Yellowstone National Park,Mammal,1,Rodentia,Cricetidae,91754,180359,Active,Phenacomys intermedius,"Heather Vole, Western Heather Vole",,Present
+YELL,Yellowstone National Park,Mammal,1,Rodentia,Dipodidae,91785,180387,Active,Zapus princeps,Western Jumping Mouse,,Present
+YELL,Yellowstone National Park,Mammal,1,Rodentia,Erethizontidae,91792,180393,Active,Erethizon dorsatum,"common porcupine, porcupine",,Present
+YELL,Yellowstone National Park,Mammal,1,Rodentia,Geomyidae,90690,180228,Active,Thomomys talpoides,Northern Pocket Gopher,,Present
+YELL,Yellowstone National Park,Mammal,1,Rodentia,Muridae,91762,180366,Active,Mus musculus,House Mouse,,Present
+YELL,Yellowstone National Park,Mammal,1,Rodentia,Sciuridae,89700,180169,Active,Glaucomys sabrinus,Northern Flying Squirrel,,Present
+YELL,Yellowstone National Park,Mammal,1,Rodentia,Sciuridae,89669,180140,Active,Marmota flaviventris,Yellow-bellied Marmot,,Present
+YELL,Yellowstone National Park,Mammal,1,Rodentia,Sciuridae,694920,-756525,Active,Neotamias amoenus,yellow pine chipmunk,,Present
+YELL,Yellowstone National Park,Mammal,1,Rodentia,Sciuridae,694924,-756527,Active,Neotamias minimus,Least chipmunk,,Present
+YELL,Yellowstone National Park,Mammal,1,Rodentia,Sciuridae,694907,-756519,Active,Neotamias umbrinus,Uinta chipmunk,,Present
+YELL,Yellowstone National Park,Mammal,1,Rodentia,Sciuridae,89676,180147,Active,Spermophilus armatus,Uinta Ground Squirrel,,Present
+YELL,Yellowstone National Park,Mammal,1,Rodentia,Sciuridae,89684,180154,Active,Spermophilus lateralis,Golden-mantled Ground Squirrel,,Present
+YELL,Yellowstone National Park,Mammal,1,Rodentia,Sciuridae,89697,180166,Active,Tamiasciurus hudsonicus,Red Squirrel,,Present
+YELL,Yellowstone National Park,Reptile,3,Squamata,Charinidae,80843,174326,Active,Charina bottae,"Northern Rubber Boa, Rubber Boa",,Present
+YELL,Yellowstone National Park,Reptile,3,Squamata,Colubridae,117249,209409,Active,Pituophis catenifer sayi,Bullsnake,,Present
+YELL,Yellowstone National Park,Reptile,3,Squamata,Colubridae,121958,209119,Active,Thamnophis elegans vagrans,"Wandering Garter Snake, Wandering Gartersnake",,Present
+YELL,Yellowstone National Park,Reptile,3,Squamata,Colubridae,121931,209095,Active,Thamnophis sirtalis fitchi,"Valley Garter Snake, Valley Gartersnake",,Present
+YELL,Yellowstone National Park,Reptile,3,Squamata,Iguanidae,118728,208742,Active,Sceloporus graciosus graciosus,Northern Sagebrush Lizard,,Present
+YELL,Yellowstone National Park,Reptile,3,Squamata,Viperidae,118342,209549,Active,Crotalus viridis viridis,Prairie Rattlesnake,,Present

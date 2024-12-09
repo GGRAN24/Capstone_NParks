@@ -1,0 +1,67 @@
+Park Code,Park Name,Category,Category Sort,Order,Family,Taxon Code,TSN,Taxon Record Status,Scientific Name,Common Names,Synonyms,Occurrence
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Artiodactyla,Antilocapridae,95067,180717,Active,Antilocapra americana,Pronghorn,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Artiodactyla,Bovidae,95061,180711,Active,Ovis canadensis,Bighorn Sheep,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Artiodactyla,Cervidae,95042,180695,Active,Cervus elaphus,American Elk; Wapiti,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Artiodactyla,Cervidae,95045,180698,Active,Odocoileus hemionus,Mule Deer,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Carnivora,Canidae,93340,180599,Active,Canis latrans,Coyote,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Carnivora,Canidae,93352,180609,Active,Urocyon cinereoargenteus,Gray Fox,,Probably Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Carnivora,Canidae,93347,180604,Active,Vulpes vulpes,Red Fox,,Probably Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Carnivora,Felidae,93327,180587,Active,Felis concolor,Mountain Lion,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Carnivora,Felidae,93322,180582,Active,Lynx rufus,Bobcat,,Probably Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Carnivora,Mephitidae,93300,180562,Active,Mephitis mephitis,Striped Skunk,,Probably Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Carnivora,Mephitidae,93309,180570,Active,Spilogale putorius,Spotted Skunk,,Probably Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Carnivora,Mustelidae,93292,180555,Active,Mustela erminea,Ermine; Short-tailed Weasel,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Carnivora,Mustelidae,93293,180556,Active,Mustela frenata,Long-tailed Weasel,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Carnivora,Mustelidae,93303,180565,Active,Taxidea taxus,Badger,,Probably Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Carnivora,Procyonidae,93314,180575,Active,Procyon lotor,Raccoon,,Probably Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Carnivora,Ursidae,93280,180544,Active,Ursus americanus,Black Bear,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Chiroptera,Molossidae,89610,180088,Active,Tadarida brasiliensis,Brazilian free-tailed bat,,Probably Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Chiroptera,Vespertilionidae,115231,203452,Active,Corynorhinus townsendii,Townsend's big-eared bat,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Chiroptera,Vespertilionidae,88730,180008,Active,Eptesicus fuscus,big brown bat,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Chiroptera,Vespertilionidae,88737,180014,Active,Lasionycteris noctivagans,Silver-haired bat,,Probably Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Chiroptera,Vespertilionidae,88740,180017,Active,Lasiurus cinereus,hoary bat,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Chiroptera,Vespertilionidae,88713,179994,Active,Myotis ciliolabrum,western small-footed bat,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Chiroptera,Vespertilionidae,88714,179995,Active,Myotis evotis,"Long-eared Myotis, Long-eared Bat",,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Chiroptera,Vespertilionidae,88706,179988,Active,Myotis lucifugus,"Little Brown Bat, Little Brown Myotis",,Probably Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Chiroptera,Vespertilionidae,698277,-758498,Inactive,Myotis occultus,Occult Myotis,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Chiroptera,Vespertilionidae,88709,179990,Active,Myotis volans,Long-legged Myotis,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Eulipotyphla,Soricidae,88122,179929,Active,Sorex cinereus,Masked Shrew,,Probably Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Eulipotyphla,Soricidae,88665,179950,Active,Sorex monticolus,Montane Shrew,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Eulipotyphla,Soricidae,88127,179933,Active,Sorex palustris,Water Shrew,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Lagomorpha,Leporidae,89638,180112,Active,Lepus americanus,Snowshoe Hare,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Lagomorpha,Leporidae,89644,180118,Active,Lepus townsendii,White-tailed Jack Rabbit,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Lagomorpha,Leporidae,89649,180122,Active,Sylvilagus audubonii,Desert Cottontail,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Lagomorpha,Leporidae,89653,180126,Active,Sylvilagus nuttallii,Nuttall's Cottontail,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Lagomorpha,Ochotonidae,89634,180109,Active,Ochotona princeps,Pika,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Rodentia,Castoridae,90673,180212,Active,Castor canadensis,Beaver,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Rodentia,Cricetidae,90763,180294,Active,Clethrionomys gapperi,"Gapper's Red-backed Vole, Southern Red-backed Vole",,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Rodentia,Cricetidae,90768,180299,Active,Microtus longicaudus,Long-tailed Vole,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Rodentia,Cricetidae,90766,180297,Active,Microtus pennsylvanicus,Meadow Vole,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Rodentia,Cricetidae,91768,180371,Active,Neotoma cinerea,Bushy-tailed Woodrat,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Rodentia,Cricetidae,91709,180318,Active,Ondatra zibethicus,Muskrat,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Rodentia,Cricetidae,91780,180382,Active,Onychomys leucogaster,Nothern Grasshopper Mouse,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Rodentia,Cricetidae,90743,180276,Active,Peromyscus maniculatus,Deer Mouse; White-footed Mouse,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Rodentia,Cricetidae,260607,552496,Active,Peromyscus nasutus,Northern Rock Mouse,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Rodentia,Cricetidae,91737,180343,Active,Reithrodontomys megalotis,Western Harvest Mouse,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Rodentia,Dipodidae,91785,180387,Active,Zapus princeps,Western Jumping Mouse,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Rodentia,Erethizontidae,91792,180393,Active,Erethizon dorsatum,Porcupine,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Rodentia,Geomyidae,90690,180228,Active,Thomomys talpoides,Nothern Pocket Gopher,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Rodentia,Heteromyidae,90708,180244,Active,Dipodomys ordii,Ord's Kangaroo Rat,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Rodentia,Heteromyidae,90727,180261,Active,Perognathus flavescens,Plains pocket mouse,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Rodentia,Heteromyidae,90728,180262,Active,Perognathus flavus,Silky Pocket Mouse,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Rodentia,Sciuridae,90641,180184,Active,Cynomys gunnisoni,Gunnison's Prairie Dog,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Rodentia,Sciuridae,89669,180140,Active,Marmota flaviventris,Yellow-bellied Marmot,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Rodentia,Sciuridae,89705,180173,Active,Sciurus aberti,Abert's squirrel,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Rodentia,Sciuridae,89684,180154,Active,Spermophilus lateralis,Golden-mantled Ground Squirrel,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Rodentia,Sciuridae,89693,180162,Active,Spermophilus tridecemlineatus,Thirteen-lined Ground Squirrel,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Rodentia,Sciuridae,89694,180163,Active,Spermophilus variegatus,Rock Ground Squirrel,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Rodentia,Sciuridae,90653,180195,Active,Tamias minimus,least chipmunk,Eutamias minimus,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Rodentia,Sciuridae,90661,180201,Active,Tamias quadrivittatus,Colorado Chipmunk,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Mammal,1,Rodentia,Sciuridae,89697,180166,Active,Tamiasciurus hudsonicus,Chickaree,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Reptile,3,Squamata,Colubridae,79751,174187,Active,Lampropeltis triangulum,"Eastern Milk Snake, Eastern Milksnake",,Probably Present
+GRSA,Great Sand Dunes National Park and Preserve,Reptile,3,Squamata,Colubridae,117240,209400,Active,Pituophis catenifer,bull snake,Pituophis melanoleucus,Present
+GRSA,Great Sand Dunes National Park and Preserve,Reptile,3,Squamata,Colubridae,79032,174142,Active,Thamnophis elegans,Western Terrestrial Garter Snake,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Reptile,3,Squamata,Iguanidae,77517,173865,Active,Sceloporus undulatus,"eastern fence lizard, plateau lizard, prairie lizard",,Present
+GRSA,Great Sand Dunes National Park and Preserve,Reptile,3,Squamata,Phrynosomatidae,285391,564594,Active,Phrynosoma hernandesi,greater short-horned lizards,,Present
+GRSA,Great Sand Dunes National Park and Preserve,Reptile,3,Squamata,Scincidae,286243,564602,Active,Eumeces multivirgatus epipleurotus,variable skink,Eumeces multivirgatus,Present
+GRSA,Great Sand Dunes National Park and Preserve,Reptile,3,Squamata,Viperidae,80835,174319,Active,Crotalus viridis,Western Prairie Rattlesnake,,Probably Present

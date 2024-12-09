@@ -1,0 +1,89 @@
+Park Code,Park Name,Category,Category Sort,Order,Family,Taxon Code,TSN,Taxon Record Status,Scientific Name,Common Names,Synonyms,Occurrence
+MEVE,Mesa Verde National Park,Mammal,1,Artiodactyla,Cervidae,95052,180703,Active,Alces alces,"Eurasian Elk, moose",,Probably Present
+MEVE,Mesa Verde National Park,Mammal,1,Artiodactyla,Cervidae,95042,180695,Active,Cervus elaphus,"elk, Red Deer (see comments), wapiti, wapiti or elk",,Present
+MEVE,Mesa Verde National Park,Mammal,1,Artiodactyla,Cervidae,95045,180698,Active,Odocoileus hemionus,"mule deer, Mule Deer",,Present
+MEVE,Mesa Verde National Park,Mammal,1,Carnivora,Canidae,93340,180599,Active,Canis latrans,Coyote,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Carnivora,Canidae,93352,180609,Active,Urocyon cinereoargenteus,"Common Gray Fox, Gray Fox",,Present
+MEVE,Mesa Verde National Park,Mammal,1,Carnivora,Canidae,93347,180604,Active,Vulpes vulpes,Red Fox,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Carnivora,Felidae,93325,180585,Active,Lynx canadensis,"Canada lynx, Canadian Lynx, lynx",,Probably Present
+MEVE,Mesa Verde National Park,Mammal,1,Carnivora,Felidae,93322,180582,Active,Lynx rufus,Bobcat,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Carnivora,Felidae,260571,552479,Active,Puma concolor,mountain lion,Felis concolor,Present
+MEVE,Mesa Verde National Park,Mammal,1,Carnivora,Mephitidae,93300,180562,Active,Mephitis mephitis,Striped Skunk,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Carnivora,Mephitidae,264255,552466,Active,Spilogale gracilis,"Alleghanian Spotted Skunk, Eastern Spotted Skunk, spotted skunk",Spilogale putorius,Present
+MEVE,Mesa Verde National Park,Mammal,1,Carnivora,Mustelidae,93292,180555,Active,Mustela erminea,Ermine,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Carnivora,Mustelidae,93293,180556,Active,Mustela frenata,Long-tailed Weasel,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Carnivora,Mustelidae,93290,180553,Active,Mustela vison,American Mink,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Carnivora,Mustelidae,93303,180565,Active,Taxidea taxus,"American Badger, Badger",,Present
+MEVE,Mesa Verde National Park,Mammal,1,Carnivora,Procyonidae,93316,180577,Active,Bassariscus astutus,Ringtail,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Carnivora,Procyonidae,93314,180575,Active,Procyon lotor,"common raccoon, Northern Raccoon, Raccoon",,Present
+MEVE,Mesa Verde National Park,Mammal,1,Carnivora,Ursidae,93280,180544,Active,Ursus americanus,"American Black Bear, black bear",,Present
+MEVE,Mesa Verde National Park,Mammal,1,Chiroptera,Molossidae,89608,180086,Active,Nyctinomops macrotis,Big Free-tailed Bat,,Probably Present
+MEVE,Mesa Verde National Park,Mammal,1,Chiroptera,Molossidae,89610,180088,Active,Tadarida brasiliensis,"Brazilian Free-tailed Bat, Mexican Free-tailed Bat",,Present
+MEVE,Mesa Verde National Park,Mammal,1,Chiroptera,Vespertilionidae,88728,180006,Active,Antrozous pallidus,Pallid Bat,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Chiroptera,Vespertilionidae,115231,203452,Active,Corynorhinus townsendii,Townsend's big-eared bat,Plecotus townsendii,Present
+MEVE,Mesa Verde National Park,Mammal,1,Chiroptera,Vespertilionidae,88730,180008,Active,Eptesicus fuscus,Big Brown Bat,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Chiroptera,Vespertilionidae,88733,180010,Active,Euderma maculatum,"Pinto Bat, Spotted Bat",,Present
+MEVE,Mesa Verde National Park,Mammal,1,Chiroptera,Vespertilionidae,88737,180014,Active,Lasionycteris noctivagans,"Black Bat, Silver-black Bat, Silver-haired Bat",,Present
+MEVE,Mesa Verde National Park,Mammal,1,Chiroptera,Vespertilionidae,88740,180017,Active,Lasiurus cinereus,"Hoary Bat, Northern Hoary Bat",,Present
+MEVE,Mesa Verde National Park,Mammal,1,Chiroptera,Vespertilionidae,88710,179991,Active,Myotis californicus,"California Myotis, Californian Myotis",,Present
+MEVE,Mesa Verde National Park,Mammal,1,Chiroptera,Vespertilionidae,88713,179994,Active,Myotis ciliolabrum,"Eastern Small-footed Bat, Eastern Small-footed Myotis, Small-footed Myotis",Myotis leibii,Present
+MEVE,Mesa Verde National Park,Mammal,1,Chiroptera,Vespertilionidae,88714,179995,Active,Myotis evotis,"Long-eared Myotis, Western Long-eared Bat",,Present
+MEVE,Mesa Verde National Park,Mammal,1,Chiroptera,Vespertilionidae,88706,179988,Active,Myotis lucifugus,"Little Brown Bat, Little Brown Myotis",,Present
+MEVE,Mesa Verde National Park,Mammal,1,Chiroptera,Vespertilionidae,88724,180002,Active,Myotis thysanodes,Fringed Myotis,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Chiroptera,Vespertilionidae,88709,179990,Active,Myotis volans,Long-legged Myotis,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Chiroptera,Vespertilionidae,88726,180004,Active,Myotis yumanensis,Yuma Myotis,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Chiroptera,Vespertilionidae,88748,180024,Active,Pipistrellus hesperus,Western Pipistrelle,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Eulipotyphla,Soricidae,88690,179973,Active,Notiosorex crawfordi,"Crawford's Gray Shrew, Desert Gray Shrew, Desert Shrew",,Present
+MEVE,Mesa Verde National Park,Mammal,1,Eulipotyphla,Soricidae,88122,179929,Active,Sorex cinereus,"Cinereus Shrew, common shrew, Masked Shrew",,Present
+MEVE,Mesa Verde National Park,Mammal,1,Eulipotyphla,Soricidae,88663,179949,Active,Sorex merriami,Merriam's Shrew,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Eulipotyphla,Soricidae,88665,179950,Active,Sorex monticolus,"Dusky Shrew, Montane Shrew",,Present
+MEVE,Mesa Verde National Park,Mammal,1,Eulipotyphla,Soricidae,88666,179951,Active,Sorex nanus,"Dwarf Shrew, Rocky Mountain dwarf shrew",,Present
+MEVE,Mesa Verde National Park,Mammal,1,Lagomorpha,Leporidae,89641,180115,Active,Lepus californicus,"Black-tailed Jack Rabbit, Black-tailed Jackrabbit, California Jackrabbit, Gray-sided Jackrabbit, Great Plains Jackrabbit, Jackass-hare, Narrow-gauge Mule, Texan Hare, Texas Jack",,Present
+MEVE,Mesa Verde National Park,Mammal,1,Lagomorpha,Leporidae,89649,180122,Active,Sylvilagus audubonii,"Audubon's Cottontail, Desert Cottontail",,Present
+MEVE,Mesa Verde National Park,Mammal,1,Lagomorpha,Leporidae,89653,180126,Active,Sylvilagus nuttallii,"Mountain Cottontail, Nuttall's cottontail",,Present
+MEVE,Mesa Verde National Park,Mammal,1,Perissodactyla,Equidae,95038,180691,Active,Equus caballus,"feral horse, Horse",,Present
+MEVE,Mesa Verde National Park,Mammal,1,Rodentia,Castoridae,90673,180212,Active,Castor canadensis,American beaver,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Rodentia,Cricetidae,90768,180299,Active,Microtus longicaudus,"Coronation Island vole, Long-tailed Vole",,Present
+MEVE,Mesa Verde National Park,Mammal,1,Rodentia,Cricetidae,91698,180308,Active,Microtus mexicanus,Mexican Vole,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Rodentia,Cricetidae,91701,180310,Active,Microtus montanus,Montane Vole,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Rodentia,Cricetidae,91767,180370,Active,Neotoma albigula,White-throated Woodrat,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Rodentia,Cricetidae,91768,180371,Active,Neotoma cinerea,Bushy-tailed Woodrat,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Rodentia,Cricetidae,91772,180375,Active,Neotoma mexicana,Mexican Woodrat,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Rodentia,Cricetidae,91709,180318,Active,Ondatra zibethicus,muskrat,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Rodentia,Cricetidae,91780,180382,Active,Onychomys leucogaster,Northern Grasshopper Mouse,,Probably Present
+MEVE,Mesa Verde National Park,Mammal,1,Rodentia,Cricetidae,90750,180282,Active,Peromyscus boylii,"Brush Deermouse, Brush Mouse",,Present
+MEVE,Mesa Verde National Park,Mammal,1,Rodentia,Cricetidae,90752,180284,Active,Peromyscus crinitus,"Canyon Deermouse, Canyon Mouse",,Present
+MEVE,Mesa Verde National Park,Mammal,1,Rodentia,Cricetidae,90743,180276,Active,Peromyscus maniculatus,"Deer Mouse, North American Deermouse",,Present
+MEVE,Mesa Verde National Park,Mammal,1,Rodentia,Cricetidae,90760,180291,Active,Peromyscus truei,"Piñon Deermouse, piñon mouse, Pinyon Mouse",,Present
+MEVE,Mesa Verde National Park,Mammal,1,Rodentia,Cricetidae,91737,180343,Active,Reithrodontomys megalotis,Western Harvest Mouse,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Rodentia,Erethizontidae,91792,180393,Active,Erethizon dorsatum,"common porcupine, porcupine",,Present
+MEVE,Mesa Verde National Park,Mammal,1,Rodentia,Geomyidae,90684,180222,Active,Thomomys bottae,Botta's Pocket Gopher,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Rodentia,Heteromyidae,90708,180244,Active,Dipodomys ordii,Ord's Kangaroo Rat,,Probably Present
+MEVE,Mesa Verde National Park,Mammal,1,Rodentia,Heteromyidae,90727,180261,Active,Perognathus flavescens,Plains Pocket Mouse,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Rodentia,Heteromyidae,90728,180262,Active,Perognathus flavus,Silky Pocket Mouse,,Probably Present
+MEVE,Mesa Verde National Park,Mammal,1,Rodentia,Sciuridae,90638,180181,Active,Ammospermophilus leucurus,White-tailed Antelope Squirrel,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Rodentia,Sciuridae,90641,180184,Active,Cynomys gunnisoni,Gunnison's Prairie Dog,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Rodentia,Sciuridae,89669,180140,Active,Marmota flaviventris,Yellow-bellied Marmot,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Rodentia,Sciuridae,694891,-756511,Active,Neotamias rufus,Colorado Chipmunk,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Rodentia,Sciuridae,89705,180173,Active,Sciurus aberti,Abert's Squirrel,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Rodentia,Sciuridae,89684,180154,Active,Spermophilus lateralis,Golden-mantled Ground Squirrel,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Rodentia,Sciuridae,89689,180159,Active,Spermophilus spilosoma,Spotted Ground Squirrel,,Probably Present
+MEVE,Mesa Verde National Park,Mammal,1,Rodentia,Sciuridae,89694,180163,Active,Spermophilus variegatus,Rock Squirrel,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Rodentia,Sciuridae,90653,180195,Active,Tamias minimus,Least Chipmunk,,Present
+MEVE,Mesa Verde National Park,Mammal,1,Rodentia,Sciuridae,89697,180166,Active,Tamiasciurus hudsonicus,Red Squirrel,,Present
+MEVE,Mesa Verde National Park,Reptile,3,Squamata,Colubridae,79803,174233,Active,Hypsiglena torquata,Mesa Verde Night Snake,Hypsiglena torquata loreala,Present
+MEVE,Mesa Verde National Park,Reptile,3,Squamata,Colubridae,79751,174187,Active,Lampropeltis triangulum,New Mexico Milk Snake,Lampropeltis triangulum celaenops,Present
+MEVE,Mesa Verde National Park,Reptile,3,Squamata,Colubridae,79811,174240,Active,Masticophis taeniatus,Desert Striped Whipsnake,Masticophis taeniatus taeniatus,Present
+MEVE,Mesa Verde National Park,Reptile,3,Squamata,Colubridae,79736,174173,Active,Opheodrys vernalis,"Smooth Green Snake, western smooth green snake","Liochlorophis vernalis, Opheodrys vernalis blanchardi",Present
+MEVE,Mesa Verde National Park,Reptile,3,Squamata,Colubridae,117240,209400,Active,Pituophis catenifer,Great Basin gopher snake,Pituophis melanoleucus deserticola,Present
+MEVE,Mesa Verde National Park,Reptile,3,Squamata,Colubridae,79032,174142,Active,Thamnophis elegans,"Wandering Garter Snake, Wandering Gartersnake",Thamnophis elegans vagrans,Present
+MEVE,Mesa Verde National Park,Reptile,3,Squamata,Crotaphytidae,77570,173912,Active,Crotaphytus collaris,Yellow-headed Collared Lizard,Crotaphytus collaris auriceps,Present
+MEVE,Mesa Verde National Park,Reptile,3,Squamata,Iguanidae,77523,173870,Active,Sceloporus graciosus,Northern Sagebrush Lizard,Sceloporus graciosus graciosus,Present
+MEVE,Mesa Verde National Park,Reptile,3,Squamata,Iguanidae,77517,173865,Active,Sceloporus undulatus,Northern Plateau Lizard,Sceloporus undulatus elongatus,Present
+MEVE,Mesa Verde National Park,Reptile,3,Squamata,Iguanidae,78420,173954,Active,Urosaurus ornatus,"Northern Cliff Lizard, Northern Tree Lizard",Urosaurus ornatus wrighti,Present
+MEVE,Mesa Verde National Park,Reptile,3,Squamata,Iguanidae,78422,173956,Active,Uta stansburiana,Northern Side-blotched Lizard,Uta stansburiana stansburiana,Present
+MEVE,Mesa Verde National Park,Reptile,3,Squamata,Phrynosomatidae,78390,173927,Active,Holbrookia maculata,Speckled Earless Lizard,Holbrookia maculata approximans,Present
+MEVE,Mesa Verde National Park,Reptile,3,Squamata,Phrynosomatidae,285391,564594,Active,Phrynosoma hernandesi,"Pigmy Short-horned Lizard, Pygmy Short-horned Lizard, Short-horned Lizard","Phrynosoma douglasii ornatissimum, Phrynosoma douglasii",Present
+MEVE,Mesa Verde National Park,Reptile,3,Squamata,Scincidae,78434,173967,Active,Eumeces multivirgatus,Many-lined Skink,Eumeces multivirgatus epipleurotus,Present
+MEVE,Mesa Verde National Park,Reptile,3,Squamata,Teiidae,119626,208948,Active,Cnemidophorus velox,Plateau Striped Whiptail,,Present
+MEVE,Mesa Verde National Park,Reptile,3,Squamata,Viperidae,80835,174319,Active,Crotalus viridis,"Prairie Rattlesnake, Western Rattlesnake",,Present

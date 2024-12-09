@@ -1,0 +1,102 @@
+Park Code,Park Name,Category,Category Sort,Order,Family,Taxon Code,TSN,Taxon Record Status,Scientific Name,Common Names,Synonyms,Occurrence
+ZION,Zion National Park,Mammal,1,Artiodactyla,Bovidae,95061,180711,Active,Ovis canadensis,Bighorn Sheep,Ovis canadensis nelsoni,Present
+ZION,Zion National Park,Mammal,1,Artiodactyla,Cervidae,155879,-501601,Inactive,Cervus canadensis,Elk,"Cervus canadensis nelsoni, Cervus elaphus",Present
+ZION,Zion National Park,Mammal,1,Artiodactyla,Cervidae,95045,180698,Active,Odocoileus hemionus,Mule Deer,Odocoileus hemionus macrotis,Present
+ZION,Zion National Park,Mammal,1,Carnivora,Canidae,93340,180599,Active,Canis latrans,Coyote,Canis latrans lestes,Present
+ZION,Zion National Park,Mammal,1,Carnivora,Canidae,93352,180609,Active,Urocyon cinereoargenteus,Gray Fox,Urocyon cinereoargenteus scottii,Present
+ZION,Zion National Park,Mammal,1,Carnivora,Canidae,93347,180604,Active,Vulpes vulpes,Red Fox,,Present
+ZION,Zion National Park,Mammal,1,Carnivora,Felidae,93322,180582,Active,Lynx rufus,Bobcat,"Lynx rufus uinta, Lynx rufus baileyi, Lynx baileyi",Present
+ZION,Zion National Park,Mammal,1,Carnivora,Felidae,260571,552479,Active,Puma concolor,Mountain Lion,"Felis concolor kaibabensis, Felis concolor",Present
+ZION,Zion National Park,Mammal,1,Carnivora,Mephitidae,93300,180562,Active,Mephitis mephitis,Striped Skunk,Mephitis mephitis estor,Present
+ZION,Zion National Park,Mammal,1,Carnivora,Mephitidae,264255,552466,Active,Spilogale gracilis,Western Spotted Skunk,Spilogale gracilis saxatilis,Present
+ZION,Zion National Park,Mammal,1,Carnivora,Mustelidae,93292,180555,Active,Mustela erminea,Ermine,,Probably Present
+ZION,Zion National Park,Mammal,1,Carnivora,Mustelidae,93293,180556,Active,Mustela frenata,Long-tailed Weasel,Mustela frenata nevadensis,Present
+ZION,Zion National Park,Mammal,1,Carnivora,Mustelidae,93303,180565,Active,Taxidea taxus,American Badger,Taxidea taxus taxus,Present
+ZION,Zion National Park,Mammal,1,Carnivora,Procyonidae,93316,180577,Active,Bassariscus astutus,Ringtail,Bassariscus astutus nevadensis,Present
+ZION,Zion National Park,Mammal,1,Carnivora,Procyonidae,93314,180575,Active,Procyon lotor,Northern Raccoon,Procyon lotor pallidus,Present
+ZION,Zion National Park,Mammal,1,Carnivora,Ursidae,93280,180544,Active,Ursus americanus,American Black Bear,Ursus americanus amblyceps,Present
+ZION,Zion National Park,Mammal,1,Chiroptera,Molossidae,89608,180086,Active,Nyctinomops macrotis,Big Free-tailed Bat,"Tadarida macrotis, Tadarida molossa",Present
+ZION,Zion National Park,Mammal,1,Chiroptera,Molossidae,89610,180088,Active,Tadarida brasiliensis,Brazilian Free-tailed Bat,Tadarida mexicana,Present
+ZION,Zion National Park,Mammal,1,Chiroptera,Vespertilionidae,88728,180006,Active,Antrozous pallidus,Pallid Bat,Antrozous pallidus pacificus,Present
+ZION,Zion National Park,Mammal,1,Chiroptera,Vespertilionidae,115231,203452,Active,Corynorhinus townsendii,Townsend's Big-eared Bat,Plecotus townsendii,Present
+ZION,Zion National Park,Mammal,1,Chiroptera,Vespertilionidae,88730,180008,Active,Eptesicus fuscus,Big Brown Bat,"Eptesicus fuscus pallidus, Eptesicus fuscus fuscus",Present
+ZION,Zion National Park,Mammal,1,Chiroptera,Vespertilionidae,88733,180010,Active,Euderma maculatum,Spotted Bat,,Present
+ZION,Zion National Park,Mammal,1,Chiroptera,Vespertilionidae,88735,180012,Active,Idionycteris phyllotis,Allen's Big-eared Bat,,Present
+ZION,Zion National Park,Mammal,1,Chiroptera,Vespertilionidae,88737,180014,Active,Lasionycteris noctivagans,Silver-haired Bat,,Present
+ZION,Zion National Park,Mammal,1,Chiroptera,Vespertilionidae,260642,552512,Active,Lasiurus blossevillii,Western Red Bat,Nycteris borealis teliotis,Probably Present
+ZION,Zion National Park,Mammal,1,Chiroptera,Vespertilionidae,88740,180017,Active,Lasiurus cinereus,Hoary Bat,,Present
+ZION,Zion National Park,Mammal,1,Chiroptera,Vespertilionidae,88710,179991,Active,Myotis californicus,California Myotis,Myotis californicus stephensi,Present
+ZION,Zion National Park,Mammal,1,Chiroptera,Vespertilionidae,88713,179994,Active,Myotis ciliolabrum,Western Small-footed Myotis,Myotis subulatus melanorhinus,Present
+ZION,Zion National Park,Mammal,1,Chiroptera,Vespertilionidae,88714,179995,Active,Myotis evotis,Long-eared Myotis,,Present
+ZION,Zion National Park,Mammal,1,Chiroptera,Vespertilionidae,88724,180002,Active,Myotis thysanodes,Fringed Myotis,,Present
+ZION,Zion National Park,Mammal,1,Chiroptera,Vespertilionidae,88709,179990,Active,Myotis volans,Long-legged Myotis,,Present
+ZION,Zion National Park,Mammal,1,Chiroptera,Vespertilionidae,88726,180004,Active,Myotis yumanensis,Yuma Myotis,,Present
+ZION,Zion National Park,Mammal,1,Chiroptera,Vespertilionidae,88748,180024,Active,Pipistrellus hesperus,Western Pipistrelle,Pipistrellus hesperus hesperus,Present
+ZION,Zion National Park,Mammal,1,Eulipotyphla,Soricidae,88690,179973,Active,Notiosorex crawfordi,Crawford's Desert Shrew,,Present
+ZION,Zion National Park,Mammal,1,Eulipotyphla,Soricidae,88665,179950,Active,Sorex monticolus,Montane Shrew,,Present
+ZION,Zion National Park,Mammal,1,Eulipotyphla,Soricidae,88127,179933,Active,Sorex palustris,American Water Shrew,Sorex palustris navigator,Present
+ZION,Zion National Park,Mammal,1,Lagomorpha,Leporidae,89641,180115,Active,Lepus californicus,Black-tailed Jackrabbit,Lepus californicus deserticola,Present
+ZION,Zion National Park,Mammal,1,Lagomorpha,Leporidae,89649,180122,Active,Sylvilagus audubonii,Desert Cottontail,Sylvilagus audubonii arizonae,Present
+ZION,Zion National Park,Mammal,1,Lagomorpha,Leporidae,89653,180126,Active,Sylvilagus nuttallii,Mountain Cottontail,Sylvilagus nuttallii grangeri,Probably Present
+ZION,Zion National Park,Mammal,1,Lagomorpha,Ochotonidae,89634,180109,Active,Ochotona princeps,American Pika,Ochotona princeps fuscipes,Present
+ZION,Zion National Park,Mammal,1,Rodentia,Castoridae,90673,180212,Active,Castor canadensis,American Beaver,Castor canadensis repentinus,Present
+ZION,Zion National Park,Mammal,1,Rodentia,Cricetidae,90768,180299,Active,Microtus longicaudus,Long-tailed Vole,,Present
+ZION,Zion National Park,Mammal,1,Rodentia,Cricetidae,91701,180310,Active,Microtus montanus,Montane Vole,"Microtus mordax mordax, Microtus montanus micropus",Present
+ZION,Zion National Park,Mammal,1,Rodentia,Cricetidae,91768,180371,Active,Neotoma cinerea,Bushy-tailed Woodrat,Neotoma cinerea cinerea,Present
+ZION,Zion National Park,Mammal,1,Rodentia,Cricetidae,91771,180374,Active,Neotoma lepida,Desert Woodrat,Neotoma lepida monstrabilis,Present
+ZION,Zion National Park,Mammal,1,Rodentia,Cricetidae,91709,180318,Active,Ondatra zibethicus,Common Muskrat,,Present
+ZION,Zion National Park,Mammal,1,Rodentia,Cricetidae,91780,180382,Active,Onychomys leucogaster,Northern Grasshopper Mouse,"Onychomys torridus longicaudus, Onychomys leucogaster melanophrys",Present
+ZION,Zion National Park,Mammal,1,Rodentia,Cricetidae,91781,180383,Active,Onychomys torridus,Southern Grasshopper Mouse,,Present
+ZION,Zion National Park,Mammal,1,Rodentia,Cricetidae,90750,180282,Active,Peromyscus boylii,Brush Mouse,Peromyscus boylii rowleyi,Present
+ZION,Zion National Park,Mammal,1,Rodentia,Cricetidae,90752,180284,Active,Peromyscus crinitus,Canyon Mouse,"Peromyscus crinitus auripectus, Peromyscus crinitus stephensi",Present
+ZION,Zion National Park,Mammal,1,Rodentia,Cricetidae,90754,180286,Active,Peromyscus eremicus,Cactus Mouse,Peromyscus eremicus eremicus,Present
+ZION,Zion National Park,Mammal,1,Rodentia,Cricetidae,90743,180276,Active,Peromyscus maniculatus,Deer Mouse,Peromyscus maniculatus sonoriensis,Present
+ZION,Zion National Park,Mammal,1,Rodentia,Cricetidae,90760,180291,Active,Peromyscus truei,Pinon Mouse,Peromyscus truei truei,Present
+ZION,Zion National Park,Mammal,1,Rodentia,Cricetidae,91737,180343,Active,Reithrodontomys megalotis,Western Harvest Mouse,Reithrodontomys megalotis megalotis,Present
+ZION,Zion National Park,Mammal,1,Rodentia,Erethizontidae,91792,180393,Active,Erethizon dorsatum,North American Porcupine,"Erethizon epixanthum, Erethizon epixanthum epixanthum",Present
+ZION,Zion National Park,Mammal,1,Rodentia,Geomyidae,90684,180222,Active,Thomomys bottae,Botta's Pocket Gopher,"Thomomys bottae centralis, Thomomys bottae planirostris",Present
+ZION,Zion National Park,Mammal,1,Rodentia,Geomyidae,90690,180228,Active,Thomomys talpoides,Northern Pocket Gopher,Thomomys fossor,Present
+ZION,Zion National Park,Mammal,1,Rodentia,Heteromyidae,260578,552482,Active,Chaetodipus formosus,Long-tailed Pocket Mouse,"Perognathus formosus formosus, Chaetodipus formosus formosus",Present
+ZION,Zion National Park,Mammal,1,Rodentia,Heteromyidae,90705,180241,Active,Dipodomys merriami,Merriam's Kangaroo Rat,Dipodomys merriami merriami,Present
+ZION,Zion National Park,Mammal,1,Rodentia,Heteromyidae,90708,180244,Active,Dipodomys ordii,Ord's Kangaroo Rat,Dipodomys ordii cupidineus,Present
+ZION,Zion National Park,Mammal,1,Rodentia,Heteromyidae,90735,180269,Active,Perognathus parvus,Great Basin Pocket Mouse,,Present
+ZION,Zion National Park,Mammal,1,Rodentia,Muridae,434038,632988,Active,Meriones unguiculatus,Gerbil,,Present
+ZION,Zion National Park,Mammal,1,Rodentia,Muridae,91762,180366,Active,Mus musculus,House Mouse,,Probably Present
+ZION,Zion National Park,Mammal,1,Rodentia,Sciuridae,90638,180181,Active,Ammospermophilus leucurus,White-tailed Antelope Squirrel,"Ammospermophilus leucurus cinnamomeus, Citellus leucurus cinnamomeus",Present
+ZION,Zion National Park,Mammal,1,Rodentia,Sciuridae,89700,180169,Active,Glaucomys sabrinus,Northern Flying Squirrel,,Present
+ZION,Zion National Park,Mammal,1,Rodentia,Sciuridae,89669,180140,Active,Marmota flaviventris,Yellow-bellied Marmot,Marmota flaviventris engelhardti,Present
+ZION,Zion National Park,Mammal,1,Rodentia,Sciuridae,694916,-756523,Active,Neotamias dorsalis,Cliff Chipmunk,"Eutamias dorsalis utahensis, Tamias dorsalis",Present
+ZION,Zion National Park,Mammal,1,Rodentia,Sciuridae,694924,-756527,Active,Neotamias minimus,Least Chipmunk,"Eutamias minimus consobrinus, Tamias minimus, Eutamias minimus",Present
+ZION,Zion National Park,Mammal,1,Rodentia,Sciuridae,694907,-756519,Active,Neotamias umbrinus,Uinta Chipmunk,"Tamias umbrinus, Eutamias quadrivittatus inyoensis, Eutamias umbrinus adsitus",Present
+ZION,Zion National Park,Mammal,1,Rodentia,Sciuridae,89684,180154,Active,Spermophilus lateralis,Golden-mantled Ground Squirrel,Callospermophilus lateralis lateralis,Present
+ZION,Zion National Park,Mammal,1,Rodentia,Sciuridae,89694,180163,Active,Spermophilus variegatus,Rock Squirrel,"Citellus grammurus utah, Citellus variegatus grammurus",Present
+ZION,Zion National Park,Mammal,1,Rodentia,Sciuridae,89697,180166,Active,Tamiasciurus hudsonicus,Red Squirrel,Tamiasciurus fremonti fremonti,Present
+ZION,Zion National Park,Reptile,3,Squamata,Colubridae,79719,174158,Active,Diadophis punctatus,ring-necked snake,Diadophis punctatus regalis,Present
+ZION,Zion National Park,Reptile,3,Squamata,Colubridae,79803,174233,Active,Hypsiglena torquata,nightsnake,,Present
+ZION,Zion National Park,Reptile,3,Squamata,Colubridae,122635,209247,Active,Lampropeltis getula,common kingsnake,Lampropeltis getula californiae,Present
+ZION,Zion National Park,Reptile,3,Squamata,Colubridae,79757,174192,Active,Lampropeltis pyromelana,Sonoran mountain kingsnake,,Present
+ZION,Zion National Park,Reptile,3,Squamata,Colubridae,79808,174238,Active,Masticophis flagellum,coachwhip,,Present
+ZION,Zion National Park,Reptile,3,Squamata,Colubridae,79811,174240,Active,Masticophis taeniatus,striped whipsnake,Masticophis taeniatus taeniatus,Present
+ZION,Zion National Park,Reptile,3,Squamata,Colubridae,117240,209400,Active,Pituophis catenifer,gophersnake,"Pituophis melanoleucus deserticola, Pituophis melanoleucus",Present
+ZION,Zion National Park,Reptile,3,Squamata,Colubridae,79845,174271,Active,Salvadora hexalepis,western patch-nosed snake,,Present
+ZION,Zion National Park,Reptile,3,Squamata,Colubridae,79849,174275,Active,Sonora semiannulata,groundsnake,Sonora semiannulata semiannulata,Present
+ZION,Zion National Park,Reptile,3,Squamata,Colubridae,79032,174142,Active,Thamnophis elegans,terrestrial gartersnake,Thamnophis elegans vagrans,Present
+ZION,Zion National Park,Reptile,3,Squamata,Colubridae,80804,174291,Active,Trimorphodon biscutatus,western lyresnake,Trimorphodon biscutatus lambda,Present
+ZION,Zion National Park,Reptile,3,Squamata,Crotaphytidae,118782,208791,Active,Crotaphytus bicinctores,Great Basin collared lizard,Crotaphytus insularis,Present
+ZION,Zion National Park,Reptile,3,Squamata,Crotaphytidae,78387,173924,Active,Gambelia wislizenii,long-nosed leopard lizard,Gambelia wislizenii punctata,Present
+ZION,Zion National Park,Reptile,3,Squamata,Eublepharidae,78920,174041,Active,Coleonyx variegatus,western banded gecko,Coleonyx variegatus utahensis,Present
+ZION,Zion National Park,Reptile,3,Squamata,Helodermatidae,79000,174113,Active,Heloderma suspectum,Gila monster,,Present
+ZION,Zion National Park,Reptile,3,Squamata,Iguanidae,286229,564596,Active,Sauromalus ater,common chuckwalla,Sauromalus obesus,Present
+ZION,Zion National Park,Reptile,3,Squamata,Iguanidae,77523,173870,Active,Sceloporus graciosus,common sagebrush lizard,Sceloporus graciosus graciosus,Present
+ZION,Zion National Park,Reptile,3,Squamata,Iguanidae,77526,173873,Active,Sceloporus magister,desert spiny lizard,"Sceloporus magister cephaloflavus, Sceloporus magister magister",Present
+ZION,Zion National Park,Reptile,3,Squamata,Iguanidae,118723,208738,Active,Sceloporus tristichus,plateau lizard,"Sceloporus undulatus elongatus, Sceloporus undulatus",Present
+ZION,Zion National Park,Reptile,3,Squamata,Iguanidae,78420,173954,Active,Urosaurus ornatus,tree lizard,Urosaurus ornatus wrighti,Present
+ZION,Zion National Park,Reptile,3,Squamata,Iguanidae,78422,173956,Active,Uta stansburiana,side-blotched lizard,Uta stansburiana stansburiana,Present
+ZION,Zion National Park,Reptile,3,Squamata,Phrynosomatidae,77563,173906,Active,Callisaurus draconoides,zebra-tailed lizard,,Present
+ZION,Zion National Park,Reptile,3,Squamata,Phrynosomatidae,285391,564594,Active,Phrynosoma hernandesi,greater short-horned lizard,Phrynosoma douglassii,Present
+ZION,Zion National Park,Reptile,3,Squamata,Phrynosomatidae,78408,173943,Active,Phrynosoma platyrhinos,desert horned lizard,Phrynosoma platyrhinos calidiarum,Present
+ZION,Zion National Park,Reptile,3,Squamata,Scincidae,78438,173970,Active,Eumeces skiltonianus,western skink,,Present
+ZION,Zion National Park,Reptile,3,Squamata,Teiidae,285372,564585,Active,Cnemidophorus innotatus,plateau spotted whiptail,Cnemidophorus velox,Present
+ZION,Zion National Park,Reptile,3,Squamata,Teiidae,119618,208940,Active,Cnemidophorus tigris,western whiptail,Cnemidophorus tigris septentrionalis,Present
+ZION,Zion National Park,Reptile,3,Squamata,Viperidae,118341,209548,Active,Crotalus oreganus,western rattlesnake,"Crotalus viridis lutosus, Crotalus viridis",Present
+ZION,Zion National Park,Reptile,3,Testudines,Testudinidae,77507,173856,Active,Gopherus agassizii,desert tortoise,,Present

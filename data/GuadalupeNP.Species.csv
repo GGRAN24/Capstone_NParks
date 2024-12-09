@@ -1,0 +1,118 @@
+Park Code,Park Name,Category,Category Sort,Order,Family,Taxon Code,TSN,Taxon Record Status,Scientific Name,Common Names,Synonyms,Occurrence
+GUMO,Guadalupe Mountains National Park,Mammal,1,Artiodactyla,Antilocapridae,95067,180717,Active,Antilocapra americana,Pronghorn,Antilocapra americana americana,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Artiodactyla,Bovidae,95069,180719,Active,Ammotragus lervia,Barbary Sheep,,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Artiodactyla,Cervidae,95042,180695,Active,Cervus elaphus,Elk,"Cervus elaphus nelsoni, Cervus canadensis, Cervus elaphus merriami",Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Artiodactyla,Cervidae,95045,180698,Active,Odocoileus hemionus,Mule Deer,Odocoileus hemionus crooki,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Artiodactyla,Cervidae,95046,180699,Active,Odocoileus virginianus,White-tailed Deer,Odocoileus virginianus texanus,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Artiodactyla,Tayassuidae,264631,552761,Active,Pecari tajacu,Collared Peccary,Tayassu tajacu,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Carnivora,Canidae,93340,180599,Active,Canis latrans,Coyote,Canis latrans texensis,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Carnivora,Canidae,93352,180609,Active,Urocyon cinereoargenteus,Common Gray Fox,Urocyon cinereoargenteus scottii,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Carnivora,Canidae,93349,180606,Active,Vulpes macrotis,Kit Fox,Vulpes macrotis neomexicana,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Carnivora,Felidae,93322,180582,Active,Lynx rufus,Bobcat,"Felis rufus, Lynx rufus texensis, Felis rufus baileyi",Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Carnivora,Felidae,260571,552479,Active,Puma concolor,Mountain Lion,"Felis concolor azteca, Felis concolor",Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Carnivora,Mephitidae,93305,180567,Active,Conepatus leuconotus,White-backed Hog-nosed Skunk,"Conepatus mesoleucus, Conepatus mesoleucus mearnsi",Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Carnivora,Mephitidae,93300,180562,Active,Mephitis mephitis,Striped Skunk,Mephitis mephitis varians,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Carnivora,Mephitidae,264255,552466,Active,Spilogale gracilis,Western Spotted Skunk,"Spilogale gracilis leucoparia, Spilogale putorius",Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Carnivora,Mustelidae,93293,180556,Active,Mustela frenata,Long-tailed Weasel,Mustela frenata neomexicana,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Carnivora,Mustelidae,93303,180565,Active,Taxidea taxus,American Badger,Taxidea taxus berlandieri,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Carnivora,Procyonidae,93316,180577,Active,Bassariscus astutus,Ringtail,Bassariscus astutus flavus,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Carnivora,Procyonidae,93314,180575,Active,Procyon lotor,Northern Raccoon,Procyon lotor mexicanus,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Carnivora,Ursidae,93280,180544,Active,Ursus americanus,American Black Bear,Ursus americanus amblyceps,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Chiroptera,Molossidae,89608,180086,Active,Nyctinomops macrotis,Big Free-tailed Bat,Tadarida macrotis,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Chiroptera,Molossidae,89610,180088,Active,Tadarida brasiliensis,Brazilian Free-tailed Bat,Tadarida brasiliensis mexicana,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Chiroptera,Vespertilionidae,88728,180006,Active,Antrozous pallidus,Pallid Bat,Antrozous pallidus pallidus,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Chiroptera,Vespertilionidae,115231,203452,Active,Corynorhinus townsendii,Townsend's Big-eared Bat,"Plecotus townsendii pallescens, Plecotus townsendii",Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Chiroptera,Vespertilionidae,88730,180008,Active,Eptesicus fuscus,Big Brown Bat,Eptesicus fuscus pallidus,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Chiroptera,Vespertilionidae,88737,180014,Active,Lasionycteris noctivagans,Silver-haired Bat,,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Chiroptera,Vespertilionidae,88740,180017,Active,Lasiurus cinereus,Hoary Bat,Lasiurus cinereus cinereus,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Chiroptera,Vespertilionidae,88710,179991,Active,Myotis californicus,California Myotis,Myotis californicus californicus,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Chiroptera,Vespertilionidae,88713,179994,Active,Myotis ciliolabrum,Western Small-footed Myotis,"Myotis leibii ciliolabrum, Myotis leibii",Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Chiroptera,Vespertilionidae,88724,180002,Active,Myotis thysanodes,Fringed Myotis,Myotis thysanodes thysanodes,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Chiroptera,Vespertilionidae,88725,180003,Active,Myotis velifer,Cave Myotis,Myotis velifer incautus,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Chiroptera,Vespertilionidae,88709,179990,Active,Myotis volans,Long-legged Myotis,Myotis volans interior,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Chiroptera,Vespertilionidae,88748,180024,Active,Pipistrellus hesperus,Western Pipistrelle,Pipistrellus hesperus maximus,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Didelphimorphia,Didelphidae,88114,179921,Active,Didelphis virginiana,Virginia Opossum,,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Eulipotyphla,Soricidae,88690,179973,Active,Notiosorex crawfordi,Crawford's Desert Shrew,,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Lagomorpha,Leporidae,89641,180115,Active,Lepus californicus,Black-tailed Jackrabbit,Lepus californicus texianus,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Lagomorpha,Leporidae,89649,180122,Active,Sylvilagus audubonii,Desert Cottontail,Sylvilagus audobonii neomexicanus,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Lagomorpha,Leporidae,89651,180124,Active,Sylvilagus floridanus,Eastern Cottontail,Sylvilagus floridanus robustus,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Cricetidae,260574,552480,Active,Microtus mogollonensis,Mogollon Vole,"Microtus mexicanus guadalupensis, Microtus mexicanus",Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Cricetidae,91767,180370,Active,Neotoma albigula,Western White-throated Woodrat,"Neotoma leucodon robusta, Neotoma albigula albigula",Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Cricetidae,91772,180375,Active,Neotoma mexicana,Mexican Woodrat,Neotoma mexicana mexicana,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Cricetidae,91773,180376,Active,Neotoma micropus,Southern Plains Woodrat,"Neotoma micropus canescens, Neotoma micropus micropus",Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Cricetidae,91779,180381,Active,Onychomys arenicola,Mearns's Grasshopper Mouse,"Onychomys torridus, Onychomys arenicola arenicola, Onychomys torridus torridus",Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Cricetidae,91780,180382,Active,Onychomys leucogaster,Northern Grasshopper Mouse,,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Cricetidae,90750,180282,Active,Peromyscus boylii,Brush Mouse,Peromyscus boylii rowleyi,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Cricetidae,90754,180286,Active,Peromyscus eremicus,Cactus Mouse,Peromyscus eremicus eremicus,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Cricetidae,90745,180278,Active,Peromyscus leucopus,White-footed Mouse,Peromyscus leucopus tornillo,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Cricetidae,90743,180276,Active,Peromyscus maniculatus,Deer Mouse,Peromyscus maniculatus blandus,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Cricetidae,260607,552496,Active,Peromyscus nasutus,Northem Rock Mouse,"Peromyscus difficilis nasutus, Peromyscus difficilis",Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Cricetidae,90757,180289,Active,Peromyscus pectoralis,White-ankled Mouse,Peromyscus pectoralis laceianus,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Cricetidae,90760,180291,Active,Peromyscus truei,Pinon Mouse,Peromyscus truei truei,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Cricetidae,91735,180341,Active,Reithrodontomys fulvescens,Fulvous Harvest Mouse,,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Cricetidae,91737,180343,Active,Reithrodontomys megalotis,Western Harvest Mouse,Reithrodontomys megalotis megalotis,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Cricetidae,91738,180344,Active,Reithrodontomys montanus,Plains Harvest Mouse,,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Cricetidae,91743,180349,Active,Sigmodon hispidus,Hispid Cotton Rat,"Sigmodon hispidus berlandieri, Sigmodon hispidus texianus",Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Cricetidae,91745,180350,Active,Sigmodon ochrognathus,Yellow-nosed Cotton Rat,,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Erethizontidae,91792,180393,Active,Erethizon dorsatum,North American Porcupine,Erethizon dorsatum couesi,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Geomyidae,599263,-711624,Inactive,Cratogeomys castanops,Yellow-faced Pocket Gopher,"Pappogeomys castanops, Cratogeomys castanops parviceps, Pappogeomys castanops perplanus",Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Geomyidae,90684,180222,Active,Thomomys bottae,Botta's Pocket Gopher,Thomomys bottae guadalupensis,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Heteromyidae,260592,552489,Active,Chaetodipus eremicus,Chihuahuan Desert Pocket Mouse,"Chaetodipus penicillatus, Chaetodipus eremicus eremicus, Perognathus penicillatus eremicus, Perognathus penicillatus",Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Heteromyidae,260582,552484,Active,Chaetodipus intermedius,Rock Pocket Mouse,"Perognathus intermedius, Perognathus intermedius intermedius",Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Heteromyidae,90705,180241,Active,Dipodomys merriami,Merriam's Kangaroo Rat,"Dipodomys merriami merriami, Dipodomys merriami ambiguus",Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Heteromyidae,90708,180244,Active,Dipodomys ordii,Ord's Kangaroo Rat,Dipodomys ordii ordii,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Heteromyidae,90710,180246,Active,Dipodomys spectabilis,Banner-tailed Kangaroo Rat,Dipodomys spectabilis baileyi,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Heteromyidae,90728,180262,Active,Perognathus flavus,Silky Pocket Mouse,Perognathus flavus gilvus,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Heteromyidae,260590,552488,Active,Perognathus merriami,Merriam's Pocket Mouse,Perognathus merriami gilvus,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Sciuridae,90637,180180,Active,Ammospermophilus interpres,Texas Antelope Squirrel,,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Sciuridae,694952,-756540,Active,Neotamias canipes,Gray-footed Chipmunk,"Eutamias canipes, Tamias canipes, Eutamias canipes canipes",Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Sciuridae,89685,180155,Active,Spermophilus mexicanus,Mexican Ground Squirrel,,Probably Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Sciuridae,89689,180159,Active,Spermophilus spilosoma,Spotted Ground Squirrel,Spermophilus spilosoma marginatus,Present
+GUMO,Guadalupe Mountains National Park,Mammal,1,Rodentia,Sciuridae,89694,180163,Active,Spermophilus variegatus,Rock Squirrel,Spermophilus variegatus grammurus,Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Colubridae,79769,174202,Active,Arizona elegans,Kansas glossy snake,Arizona elegans elegans,Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Colubridae,117300,209455,Active,Bogertophis subocularis,Trans-Pecos Ratsnake,"Elaphe subocularis, Bogertophis subocularis subocularis",Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Colubridae,79719,174158,Active,Diadophis punctatus,Prairie Ring-necked Snake,Diadophis punctatus arnyi,Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Colubridae,162812,-505193,Active,Elaphe emoryi,Great Plains Ratsnake,"Elaphe guttata emoryi, Elaphe guttata",Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Colubridae,79800,174230,Active,Gyalopion canum,Chihuahuan Hook-nosed Snake,,Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Colubridae,79046,174155,Active,Heterodon nasicus,"Mexican hog-nosed snake, Western hog-nosed snake",Heterodon nasicus kennerlyi,Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Colubridae,79803,174233,Active,Hypsiglena torquata,Texas Night Snake,Hypsiglena torquata jani,Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Colubridae,122656,209266,Active,Lampropeltis alterna,Gray-banded Kingsnake,Lampropeltis mexicana,Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Colubridae,122635,209247,Active,Lampropeltis getula,Desert Kingsnake,Lampropeltis getulus,Probably Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Colubridae,79808,174238,Active,Masticophis flagellum,Western Coachwhip,Masticophis flagellum testaceus,Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Colubridae,79811,174240,Active,Masticophis taeniatus,Desert Striped Whipsnake,"Masticophis taeniatus girardi, Masticophis taeniatus taeniatus",Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Colubridae,117240,209400,Active,Pituophis catenifer,Sonoran Gophersnake,"Pituophis melanoleucus affinis, Pituophis catenifer sayi, Pituophis catenifer affinis, Pituophis melanoleucus",Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Colubridae,79840,174267,Active,Rhinocheilus lecontei,Texas Long-nosed Snake,Rhinocheilus lecontei tessellatus,Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Colubridae,79844,174270,Active,Salvadora grahamiae,Mountain Patch-nosed Snake,Salvadora grahamiae grahamiae,Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Colubridae,79849,174275,Active,Sonora semiannulata,Variable Groundsnake,"Sonora episcopa, Sonora semiannulata semiannulata",Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Colubridae,80794,174282,Active,Tantilla hobartsmithi,Smith's Black-headed Snake,Tantilla atriceps,Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Colubridae,80795,174283,Active,Tantilla nigriceps,Plains Black-headed Snake,Tantilla nigriceps fumiceps,Probably Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Colubridae,79031,174141,Active,Thamnophis cyrtopsis,Western Black-necked Gartersnake,Thamnophis cyrtopsis cyrtopsis,Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Crotaphytidae,77570,173912,Active,Crotaphytus collaris,Eastern Collared Lizard,,Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Crotaphytidae,78387,173924,Active,Gambelia wislizenii,Long-nosed Leopard Lizard,Crotaphytus wislizenii,Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Eublepharidae,78916,174038,Active,Coleonyx brevis,Texas Banded Gecko,,Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Iguanidae,537754,683043,Active,Sceloporus cowlesi,Southwestern Fence Lizard,"Sceloporus undulatus consobrinus, Sceloporus undulatus",Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Iguanidae,77526,173873,Active,Sceloporus magister,Twin-spotted Spiny Lizard,,Probably Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Iguanidae,77531,173878,Active,Sceloporus poinsettii,Northern Crevice Spiny Lizard,Sceloporus poinsettii poinsettii,Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Iguanidae,78420,173954,Active,Urosaurus ornatus,Big Bend Tree Lizard,Urosaurus ornatus schmidti,Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Iguanidae,78422,173956,Active,Uta stansburiana,Common Side-blotched Lizard,,Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Leptotyphlopidae,667544,-745354,Inactive,Leptotyphlops dissectus,New Mexico Threadsnake,Leptotyphlops dulcis,Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Leptotyphlopidae,80855,174337,Active,Leptotyphlops humilis,Trans-Pecos Threadsnake,Leptotyphlops humilis segregus,Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Phrynosomatidae,77568,173910,Active,Cophosaurus texanus,Chihuahuan Greater Earless Lizard,"Holbrookia texana, Cophosaurus texanus scitulus",Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Phrynosomatidae,78390,173927,Active,Holbrookia maculata,Common Lesser Earless Lizard,,Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Phrynosomatidae,78402,173938,Active,Phrynosoma cornutum,Texas Horned Lizard,,Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Phrynosomatidae,285391,564594,Active,Phrynosoma hernandesi,Hernandez's Short-horned Lizard,"Phrynosoma douglasii, Phrynosoma hernandesi hernandesi",Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Phrynosomatidae,78407,173942,Active,Phrynosoma modestum,Round-tailed Horned Lizard,,Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Scincidae,78434,173967,Active,Eumeces multivirgatus,Variable Skink,"Eumeces multivirgatus gaigeae, Eumeces multivirgatus epipleurotus",Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Scincidae,78435,173968,Active,Eumeces obsoletus,Great Plains Skink,,Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Teiidae,667570,-745370,Inactive,Aspidoscelis exsanguis,Chihuahuan Spotted Whiptail,Cnemidophorus exsanguis,Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Teiidae,667564,-745366,Inactive,Aspidoscelis inornata,Trans-Pecos Striped Whiptail,"Cnemidophorus inornatus, Aspidoscelis inornata heptagramma",Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Teiidae,667537,-745350,Inactive,Aspidoscelis marmorata,Western Marbled Whiptail,Aspidoscelis marmorata marmorata,Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Teiidae,667534,-745349,Inactive,Aspidoscelis tesselata,Common Checkered Whiptail,Cnemidophorus tesselatus,Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Teiidae,695996,-756574,Inactive,Aspidoscelis tigris,Tiger Whiptail,Cnemidophorus tigris,Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Viperidae,80826,174310,Active,Crotalus atrox,Western Diamond-backed Rattlesnake,,Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Viperidae,80828,174312,Active,Crotalus lepidus,Mottled Rock Rattlesnake,Crotalus lepidus lepidus,Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Viperidae,80830,174314,Active,Crotalus molossus,Northern Black-tailed Rattlesnake,Crotalus molossus molossus,Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Viperidae,80833,174317,Active,Crotalus scutulatus,Mohave Rattlesnake,,Probably Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Squamata,Viperidae,80835,174319,Active,Crotalus viridis,Prairie Rattlesnake,Crotalus viridis viridis,Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Testudines,Emydidae,76884,173778,Active,Terrapene ornata,Desert Box Turtle,"Terrapene ornata luteola, Terrapene ornata ornata",Present
+GUMO,Guadalupe Mountains National Park,Reptile,3,Testudines,Kinosternidae,76871,173766,Active,Kinosternon flavescens,Yellow Mud Turtle,,Present

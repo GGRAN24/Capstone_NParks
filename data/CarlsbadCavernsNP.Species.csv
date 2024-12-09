@@ -1,0 +1,112 @@
+Park Code,Park Name,Category,Category Sort,Order,Family,Taxon Code,TSN,Taxon Record Status,Scientific Name,Common Names,Synonyms,Occurrence
+CAVE,Carlsbad Caverns National Park,Mammal,1,Artiodactyla,Antilocapridae,95067,180717,Active,Antilocapra americana,Pronghorn,Antilocapra americana americana,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Artiodactyla,Bovidae,95069,180719,Active,Ammotragus lervia,"Aoudad, Barbary Sheep",,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Artiodactyla,Cervidae,155879,-501601,Inactive,Cervus canadensis,Rocky Mountain Elk,"Cervus elaphus nelsoni, Cervus canadensis nelsoni",Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Artiodactyla,Cervidae,95045,180698,Active,Odocoileus hemionus,Mule Deer,"Odocoileus hemionus canus, Odocoileus hemionus crooki",Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Artiodactyla,Tayassuidae,264631,552761,Active,Pecari tajacu,"Collared Peccary, Javelina","Pecari tajacu angulatus, Pecari angulatus angulatus",Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Carnivora,Canidae,93340,180599,Active,Canis latrans,Coyote,Canis latrans texensis,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Carnivora,Canidae,93352,180609,Active,Urocyon cinereoargenteus,Common Gray Fox,Urocyon cinereoargenteus scottii,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Carnivora,Canidae,93349,180606,Active,Vulpes macrotis,Kit Fox,Vulpes macrotis neomexicana,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Carnivora,Felidae,93322,180582,Active,Lynx rufus,Bobcat,"Lynx rufus texensis, Felis rufus, Lynx rufus uinta",Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Carnivora,Felidae,260571,552479,Active,Puma concolor,Mountain Lion,"Felis concolor, Felis couguar aztecus",Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Carnivora,Mephitidae,93305,180567,Active,Conepatus leuconotus,White-backed Hog-nosed Skunk,"Conepatus leuconotus leuconotus, Conepatus mesoleucus mearnsi, Conepatus mesoleucus",Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Carnivora,Mephitidae,93300,180562,Active,Mephitis mephitis,Striped Skunk,"Mephitis mesomelas varians, Mephitis mephitis varians",Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Carnivora,Mephitidae,264255,552466,Active,Spilogale gracilis,Western Spotted Skunk,"Spilogale leucoparia, Spilogale gracilis leucoparia",Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Carnivora,Mustelidae,93293,180556,Active,Mustela frenata,Long-tailed Weasel,Mustela frenata neomexicana,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Carnivora,Mustelidae,93303,180565,Active,Taxidea taxus,American Badger,"Taxidea taxus berlandieri, Taxidea berlandieri",Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Carnivora,Procyonidae,93316,180577,Active,Bassariscus astutus,Ringtail,Bassariscus astutus flavus,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Carnivora,Procyonidae,93314,180575,Active,Procyon lotor,Northern Raccoon,Procyon lotor mexicanus,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Carnivora,Ursidae,93280,180544,Active,Ursus americanus,American Black Bear,Ursus americanus amblyceps,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Chiroptera,Molossidae,89607,180085,Active,Nyctinomops femorosaccus,Pocketed Free-tailed Bat,,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Chiroptera,Molossidae,89608,180086,Active,Nyctinomops macrotis,Big Free-tailed Bat,,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Chiroptera,Molossidae,89610,180088,Active,Tadarida brasiliensis,Brazilian Free-tailed Bat,"Tadarida mexicana mexicana, Tadarida brasiliensis mexicana",Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Chiroptera,Vespertilionidae,88728,180006,Active,Antrozous pallidus,Pallid Bat,Antrozous pallidus pallidus,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Chiroptera,Vespertilionidae,115231,203452,Active,Corynorhinus townsendii,Townsend's Big-eared Bat,"Corynorhinus townsendii pallescens, Plecotus townsendii pallescens, Corynorhinus macrotis pallescens",Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Chiroptera,Vespertilionidae,88730,180008,Active,Eptesicus fuscus,Big Brown Bat,Eptesicus fuscus pallidus,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Chiroptera,Vespertilionidae,88737,180014,Active,Lasionycteris noctivagans,Silver-haired Bat,,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Chiroptera,Vespertilionidae,88739,180016,Active,Lasiurus borealis,Eastern Red Bat,Nycteris borealis,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Chiroptera,Vespertilionidae,88740,180017,Active,Lasiurus cinereus,Hoary Bat,"Nycteris cinerea, Lasiurus cinereus cinereus",Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Chiroptera,Vespertilionidae,88710,179991,Active,Myotis californicus,California Myotis,"Myotis californicus californicus, Myotis californicus pallidus",Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Chiroptera,Vespertilionidae,88713,179994,Active,Myotis ciliolabrum,Western Small-footed Myotis,Myotis ciliolabrum melanorhinus,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Chiroptera,Vespertilionidae,88724,180002,Active,Myotis thysanodes,Fringed Myotis,Myotis thysanodes thysanodes,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Chiroptera,Vespertilionidae,88725,180003,Active,Myotis velifer,Cave Myotis,"Myotis velifer incautus, Myotis incautus",Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Chiroptera,Vespertilionidae,88709,179990,Active,Myotis volans,Long-legged Myotis,Myotis volans interior,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Chiroptera,Vespertilionidae,88726,180004,Active,Myotis yumanensis,Yuma Myotis,,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Chiroptera,Vespertilionidae,88748,180024,Active,Pipistrellus hesperus,Western Pipistrelle,"Pipistrellus hesperus hesperus, Pipistrellus hesperus maximus",Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Chiroptera,Vespertilionidae,88749,180025,Active,Pipistrellus subflavus,Eastern Pipistrelle,Pipistrellus subflavus subflavus,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Eulipotyphla,Soricidae,88690,179973,Active,Notiosorex crawfordi,Crawford's Desert Shrew,,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Lagomorpha,Leporidae,89641,180115,Active,Lepus californicus,Black-tailed Jackrabbit,Lepus californicus texianus,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Lagomorpha,Leporidae,89649,180122,Active,Sylvilagus audubonii,Desert Cottontail,"Sylvilagus auduboni minor, Sylvilagus audubonii neomexicanus",Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Rodentia,Cricetidae,91767,180370,Active,Neotoma albigula,Western White-throated Woodrat,,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Rodentia,Cricetidae,599267,-711626,Inactive,Neotoma leucodon,Eastern White-Throated Woodrat,Neotoma leucodon melas,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Rodentia,Cricetidae,91772,180375,Active,Neotoma mexicana,Mexican Woodrat,Neotoma mexicana scopulorum,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Rodentia,Cricetidae,91773,180376,Active,Neotoma micropus,Southern Plains Woodrat,Neotoma micropus canescens,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Rodentia,Cricetidae,91779,180381,Active,Onychomys arenicola,Mearns' Grasshopper Mouse,"Onychomys arenicola arenicola, Onychomys torridus",Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Rodentia,Cricetidae,91780,180382,Active,Onychomys leucogaster,Northern Grasshopper Mouse,Onychomys leucogaster ruidosae,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Rodentia,Cricetidae,90750,180282,Active,Peromyscus boylii,Brush Mouse,Peromyscus boylii rowleyi,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Rodentia,Cricetidae,90754,180286,Active,Peromyscus eremicus,Cactus Mouse,Peromyscus eremicus eremicus,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Rodentia,Cricetidae,90745,180278,Active,Peromyscus leucopus,White-footed Mouse,Peromyscus leucopus tornillo,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Rodentia,Cricetidae,90743,180276,Active,Peromyscus maniculatus,Deer Mouse,Peromyscus maniculatus blandus,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Rodentia,Cricetidae,260607,552496,Active,Peromyscus nasutus,Northern Rock Mouse,Peromyscus nasutus nasutus,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Rodentia,Cricetidae,90757,180289,Active,Peromyscus pectoralis,White-ankled Mouse,Peromyscus pectoralis laceianus,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Rodentia,Cricetidae,91737,180343,Active,Reithrodontomys megalotis,Western Harvest Mouse,Reithrodontomys megalotis megalotis,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Rodentia,Cricetidae,91738,180344,Active,Reithrodontomys montanus,Plains Harvest Mouse,Reithrodontomys montanus griseus,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Rodentia,Cricetidae,91743,180349,Active,Sigmodon hispidus,Hispid Cotton Rat,Sigmodon hispidus berlandieri,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Rodentia,Erethizontidae,91792,180393,Active,Erethizon dorsatum,North American Porcupine,Erethizon dorsatum epixanthum,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Rodentia,Geomyidae,599263,-711624,Inactive,Cratogeomys castanops,Yellow-faced Pocket Gopher,Cratogeomys castanops lacrimalis,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Rodentia,Geomyidae,90684,180222,Active,Thomomys bottae,Botta's Pocket Gopher,"Thomomys bottae lechguilla, Thomomys lachuguilla, Thomomys bottae pectoralis",Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Rodentia,Heteromyidae,260592,552489,Active,Chaetodipus eremicus,Chihuahuan Desert Pocket Mouse,Chaetodipus eremicus eremicus,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Rodentia,Heteromyidae,260580,552483,Active,Chaetodipus hispidus,Hispid Pocket Mouse,"Perognathus hispidus paradoxus, Chaetodipus hispidus paradoxus",Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Rodentia,Heteromyidae,260584,552485,Active,Chaetodipus nelsoni,Nelson's Pocket Mouse,Chaetodipus nelsoni canescens,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Rodentia,Heteromyidae,90705,180241,Active,Dipodomys merriami,Merriam's Kangaroo Rat,"Dipodomys merriami ambiguus, Dipodomys merriami merriami",Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Rodentia,Heteromyidae,90710,180246,Active,Dipodomys spectabilis,Banner-tailed Kangaroo Rat,Dipodomys spectabilis baileyi,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Rodentia,Heteromyidae,90728,180262,Active,Perognathus flavus,Silky Pocket Mouse,Perognathus flavus flavus,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Rodentia,Sciuridae,90637,180180,Active,Ammospermophilus interpres,Texas Antelope Squirrel,,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Rodentia,Sciuridae,694952,-756540,Active,Neotamias canipes,Gray-footed Chipmunk,Neotamias canipes canipes,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Rodentia,Sciuridae,89704,180172,Active,Sciurus niger,Eastern Fox Squirrel,Sciurus niger rufiventer,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Rodentia,Sciuridae,89685,180155,Active,Spermophilus mexicanus,Mexican Ground Squirrel,"Citellus mexicanus parvidens, Spermophilus mexicanus parvidens",Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Rodentia,Sciuridae,89689,180159,Active,Spermophilus spilosoma,Spotted Ground Squirrel,Spermophilus spilosoma marginatus,Present
+CAVE,Carlsbad Caverns National Park,Mammal,1,Rodentia,Sciuridae,89694,180163,Active,Spermophilus variegatus,Rock Squirrel,"Spermophilus variegatus grammurus, Citellus grammurus grammurus",Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Colubridae,117300,209455,Active,Bogertophis subocularis,Trans-Pecos Ratsnake,"Bogertophis subocularis subocularis, Elaphe subocularis",Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Colubridae,79719,174158,Active,Diadophis punctatus,Ring-necked Snake,"Diadophis punctatus regalis, Diadophis punctatus arnyi",Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Colubridae,162812,-505193,Active,Elaphe emoryi,Great Plains Ratsnake,"Elaphe guttata, Elaphe guttata emoryi",Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Colubridae,79800,174230,Active,Gyalopion canum,Chihuahuan Hook-nosed Snake,Ficimia cana,Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Colubridae,79046,174155,Active,Heterodon nasicus,Mexican Hog-nosed Snake,Heterodon nasicus kennerlyi,Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Colubridae,79803,174233,Active,Hypsiglena torquata,Texas Nightsnake,Hypsiglena torquata jani,Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Colubridae,122656,209266,Active,Lampropeltis alterna,Gray-banded Kingsnake,Lampropeltis mexicana,Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Colubridae,122635,209247,Active,Lampropeltis getula,Desert Kingsnake,Lampropeltis getula splendida,Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Colubridae,79808,174238,Active,Masticophis flagellum,Western Coachwhip,Masticophis flagellum testaceus,Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Colubridae,79811,174240,Active,Masticophis taeniatus,Striped Whipsnake,Masticophis taeniatus taeniatus,Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Colubridae,115840,209345,Active,Nerodia erythrogaster transversa,Blotched Watersnake,Natrix erythrogaster,Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Colubridae,117240,209400,Active,Pituophis catenifer,Sonoran Gophersnake,"Pituophis melanoleucus sayi, Pituophis melanoleucus affinis, Pituophis melanoleucus, Pituophis catenifer affinis",Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Colubridae,79840,174267,Active,Rhinocheilus lecontei,Texas Long-nosed Snake,Rhinocheilus lecontei tessellatus,Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Colubridae,79844,174270,Active,Salvadora grahamiae,Mountain Patch-nosed Snake,Salvadora grahamiae grahamiae,Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Colubridae,79845,174271,Active,Salvadora hexalepis,Big Bend Patch-nosed Snake,Salvadora deserticola,Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Colubridae,79849,174275,Active,Sonora semiannulata,Variable Groundsnake,"Sonora episcopa, Sonora semiannulata semiannulata",Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Colubridae,80794,174282,Active,Tantilla hobartsmithi,Smith's Black-headed Snake,"Tantilla wilcoxi, Tantilla atriceps",Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Colubridae,80795,174283,Active,Tantilla nigriceps,Plains Black-headed Snake,Tantilla nigriceps fumiceps,Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Colubridae,79031,174141,Active,Thamnophis cyrtopsis,Western Black-necked Gartersnake,Thamnophis cyrtopsis cyrtopsis,Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Colubridae,79034,174144,Active,Thamnophis marcianus,Marcy's Checkered Gartersnake,Thamnophis marcianus marcianus,Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Crotaphytidae,77570,173912,Active,Crotaphytus collaris,Eastern Collared Lizard,"Crotaphytus collaris baileyi, Crotaphytus collaris collaris",Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Eublepharidae,78916,174038,Active,Coleonyx brevis,Texas Banded Gecko,,Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Iguanidae,537754,683043,Active,Sceloporus cowlesi,Southwestern Fence Lizard,"Sceloporus undulatus, Sceloporus undulatus consobrinus",Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Iguanidae,77531,173878,Active,Sceloporus poinsettii,Northern Crevice Spiny Lizard,Sceloporus poinsettii poinsettii,Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Iguanidae,78420,173954,Active,Urosaurus ornatus,Big Bend Tree Lizard,Urosaurus ornatus schmidti,Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Iguanidae,78422,173956,Active,Uta stansburiana,Common Side-blotched Lizard,Uta stansburiana stejnegeri,Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Leptotyphlopidae,667544,-745354,Inactive,Leptotyphlops dissectus,New Mexico Threadsnake,"Leptotyphlops dulcis dissectus, Leptotyphlops dulcis",Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Phrynosomatidae,77568,173910,Active,Cophosaurus texanus,Chihuahuan Greater Earless Lizard,"Holbrookia texana, Cophosaurus texanus scitulus, Cophosaurus texanus texanus",Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Phrynosomatidae,78402,173938,Active,Phrynosoma cornutum,Texas Horned Lizard,,Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Phrynosomatidae,78407,173942,Active,Phrynosoma modestum,Round-tailed Horned Lizard,,Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Scincidae,78434,173967,Active,Eumeces multivirgatus,Variable Skink,Eumeces multivirgatus epipleurotus,Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Scincidae,78435,173968,Active,Eumeces obsoletus,Great Plains Skink,,Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Teiidae,564321,-695090,Inactive,Aspidoscelis exsanguis,Chihuahuan Spotted Whiptail,Cnemidophorus exsanguis,Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Teiidae,565063,-695112,Inactive,Aspidoscelis gularis,Texas Spotted Whiptail,"Aspidoscelis gularis gularis, Cnemidophorus gularis",Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Teiidae,667564,-745366,Inactive,Aspidoscelis inornata,Trans-Pecos Striped Whiptail,"Aspidoscelis inornata heptagramma, Cnemidophorus inornatus",Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Teiidae,667534,-745349,Inactive,Aspidoscelis tesselata,Common Checkered Whiptail,"Cnemidophorus tesselatus, Cnemidophorus grahamii",Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Viperidae,80826,174310,Active,Crotalus atrox,Western Diamond-backed Rattlesnake,,Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Viperidae,118313,209522,Active,Crotalus lepidus lepidus,Mottled Rock Rattlesnake,"Crotalus lepidus klauberi, Crotalus lepidus",Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Squamata,Viperidae,80830,174314,Active,Crotalus molossus,Northern Black-tailed Rattlesnake,Crotalus molossus molossus,Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Testudines,Emydidae,259458,551766,Active,Pseudemys gorzugi,Rio Grande Cooter,Pseudemys concinna,Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Testudines,Emydidae,76884,173778,Active,Terrapene ornata,Ornate Box Turtle,Terrapene ornata ornata,Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Testudines,Emydidae,77466,173819,Active,Trachemys scripta,Red-eared Slider,"Pseudemys scripta, Trachemys scripta elegans",Present
+CAVE,Carlsbad Caverns National Park,Reptile,3,Testudines,Kinosternidae,76871,173766,Active,Kinosternon flavescens,Yellow Mud Turtle,Kinosternon flavescens flavescens,Present

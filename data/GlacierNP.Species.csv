@@ -1,0 +1,68 @@
+Park Code,Park Name,Category,Category Sort,Order,Family,Taxon Code,TSN,Taxon Record Status,Scientific Name,Common Names,Synonyms,Occurrence
+GLAC,Glacier National Park,Mammal,1,Artiodactyla,Bovidae,95063,180713,Active,Oreamnos americanus,mountain goat,,Present
+GLAC,Glacier National Park,Mammal,1,Artiodactyla,Bovidae,95061,180711,Active,Ovis canadensis,bighorn sheep,,Present
+GLAC,Glacier National Park,Mammal,1,Artiodactyla,Cervidae,95052,180703,Active,Alces alces,moose,,Present
+GLAC,Glacier National Park,Mammal,1,Artiodactyla,Cervidae,95042,180695,Active,Cervus elaphus,elk,,Present
+GLAC,Glacier National Park,Mammal,1,Artiodactyla,Cervidae,95045,180698,Active,Odocoileus hemionus,mule deer,,Present
+GLAC,Glacier National Park,Mammal,1,Artiodactyla,Cervidae,95046,180699,Active,Odocoileus virginianus,white-tailed deer,,Present
+GLAC,Glacier National Park,Mammal,1,Carnivora,Canidae,93340,180599,Active,Canis latrans,coyote,,Present
+GLAC,Glacier National Park,Mammal,1,Carnivora,Canidae,93337,180596,Active,Canis lupus,gray wolf,,Present
+GLAC,Glacier National Park,Mammal,1,Carnivora,Canidae,93347,180604,Active,Vulpes vulpes,red fox,,Present
+GLAC,Glacier National Park,Mammal,1,Carnivora,Felidae,93325,180585,Active,Lynx canadensis,lynx,,Present
+GLAC,Glacier National Park,Mammal,1,Carnivora,Felidae,93322,180582,Active,Lynx rufus,bobcat,,Present
+GLAC,Glacier National Park,Mammal,1,Carnivora,Felidae,260571,552479,Active,Puma concolor,mountain lion,,Present
+GLAC,Glacier National Park,Mammal,1,Carnivora,Mephitidae,93300,180562,Active,Mephitis mephitis,striped skunk,,Present
+GLAC,Glacier National Park,Mammal,1,Carnivora,Mustelidae,93288,180551,Active,Gulo gulo,wolverine,,Present
+GLAC,Glacier National Park,Mammal,1,Carnivora,Mustelidae,93311,180572,Active,Lutra canadensis,river otter,,Present
+GLAC,Glacier National Park,Mammal,1,Carnivora,Mustelidae,93296,180559,Active,Martes americana,marten,,Present
+GLAC,Glacier National Park,Mammal,1,Carnivora,Mustelidae,93298,180560,Active,Martes pennanti,fisher,,Present
+GLAC,Glacier National Park,Mammal,1,Carnivora,Mustelidae,93292,180555,Active,Mustela erminea,short-tailed weasel,,Present
+GLAC,Glacier National Park,Mammal,1,Carnivora,Mustelidae,93293,180556,Active,Mustela frenata,long-tailed weasel,,Present
+GLAC,Glacier National Park,Mammal,1,Carnivora,Mustelidae,93291,180554,Active,Mustela nivalis,least weasel,,Present
+GLAC,Glacier National Park,Mammal,1,Carnivora,Mustelidae,93290,180553,Active,Mustela vison,mink,,Present
+GLAC,Glacier National Park,Mammal,1,Carnivora,Mustelidae,93303,180565,Active,Taxidea taxus,badger,,Present
+GLAC,Glacier National Park,Mammal,1,Carnivora,Procyonidae,93314,180575,Active,Procyon lotor,racoon,,Present
+GLAC,Glacier National Park,Mammal,1,Carnivora,Ursidae,93280,180544,Active,Ursus americanus,black bear,,Present
+GLAC,Glacier National Park,Mammal,1,Carnivora,Ursidae,107229,202385,Active,Ursus arctos horribilis,Grizzly bear,,Present
+GLAC,Glacier National Park,Mammal,1,Chiroptera,Vespertilionidae,88730,180008,Active,Eptesicus fuscus,big brown bat,,Present
+GLAC,Glacier National Park,Mammal,1,Chiroptera,Vespertilionidae,88737,180014,Active,Lasionycteris noctivagans,silver-haired bat,,Present
+GLAC,Glacier National Park,Mammal,1,Chiroptera,Vespertilionidae,88740,180017,Active,Lasiurus cinereus,hoary bat,,Probably Present
+GLAC,Glacier National Park,Mammal,1,Chiroptera,Vespertilionidae,88714,179995,Active,Myotis evotis,long-eared bat,,Present
+GLAC,Glacier National Park,Mammal,1,Chiroptera,Vespertilionidae,88706,179988,Active,Myotis lucifugus,little brown bat,,Present
+GLAC,Glacier National Park,Mammal,1,Chiroptera,Vespertilionidae,88709,179990,Active,Myotis volans,long-legged bat,,Probably Present
+GLAC,Glacier National Park,Mammal,1,Eulipotyphla,Soricidae,88122,179929,Active,Sorex cinereus,masked shrew,,Present
+GLAC,Glacier National Park,Mammal,1,Eulipotyphla,Soricidae,88660,179946,Active,Sorex hoyi,pygmy shrew,,Probably Present
+GLAC,Glacier National Park,Mammal,1,Eulipotyphla,Soricidae,88665,179950,Active,Sorex monticolus,montane shrew,,Present
+GLAC,Glacier National Park,Mammal,1,Eulipotyphla,Soricidae,88127,179933,Active,Sorex palustris,northern water shrew,,Present
+GLAC,Glacier National Park,Mammal,1,Eulipotyphla,Soricidae,88126,179932,Active,Sorex vagrans,vagrant shrew,,Present
+GLAC,Glacier National Park,Mammal,1,Lagomorpha,Leporidae,89638,180112,Active,Lepus americanus,snowshoe hare,,Present
+GLAC,Glacier National Park,Mammal,1,Lagomorpha,Leporidae,89644,180118,Active,Lepus townsendii,white-tailed jackrabbit,,Present
+GLAC,Glacier National Park,Mammal,1,Lagomorpha,Ochotonidae,89634,180109,Active,Ochotona princeps,pika,,Present
+GLAC,Glacier National Park,Mammal,1,Rodentia,Castoridae,90673,180212,Active,Castor canadensis,beaver,,Present
+GLAC,Glacier National Park,Mammal,1,Rodentia,Cricetidae,90763,180294,Active,Clethrionomys gapperi,red-backed vole,,Present
+GLAC,Glacier National Park,Mammal,1,Rodentia,Cricetidae,90768,180299,Active,Microtus longicaudus,long-tailed vole,,Present
+GLAC,Glacier National Park,Mammal,1,Rodentia,Cricetidae,90766,180297,Active,Microtus pennsylvanicus,meadow vole,,Present
+GLAC,Glacier National Park,Mammal,1,Rodentia,Cricetidae,91706,180315,Active,Microtus richardsoni,water vole,Arvicola richardsoni,Present
+GLAC,Glacier National Park,Mammal,1,Rodentia,Cricetidae,91768,180371,Active,Neotoma cinerea,bushy-tailed wood rat,,Present
+GLAC,Glacier National Park,Mammal,1,Rodentia,Cricetidae,91709,180318,Active,Ondatra zibethicus,muskrat,,Present
+GLAC,Glacier National Park,Mammal,1,Rodentia,Cricetidae,90743,180276,Active,Peromyscus maniculatus,deer mouse,,Present
+GLAC,Glacier National Park,Mammal,1,Rodentia,Cricetidae,91754,180359,Active,Phenacomys intermedius,montane heather vole,,Present
+GLAC,Glacier National Park,Mammal,1,Rodentia,Cricetidae,91715,180323,Active,Synaptomys borealis,northern bog lemming,,Present
+GLAC,Glacier National Park,Mammal,1,Rodentia,Dipodidae,91785,180387,Active,Zapus princeps,western jumping mouse,,Present
+GLAC,Glacier National Park,Mammal,1,Rodentia,Erethizontidae,91792,180393,Active,Erethizon dorsatum,porcupine,,Present
+GLAC,Glacier National Park,Mammal,1,Rodentia,Geomyidae,90690,180228,Active,Thomomys talpoides,northern pocket gopher,,Present
+GLAC,Glacier National Park,Mammal,1,Rodentia,Sciuridae,89673,180144,Active,Eutamias minimus,least chipmunk,,Probably Present
+GLAC,Glacier National Park,Mammal,1,Rodentia,Sciuridae,89700,180169,Active,Glaucomys sabrinus,northern flying squirrel,,Present
+GLAC,Glacier National Park,Mammal,1,Rodentia,Sciuridae,89667,180139,Active,Marmota caligata,hoary marmot,,Present
+GLAC,Glacier National Park,Mammal,1,Rodentia,Sciuridae,89669,180140,Active,Marmota flaviventris,yellow-bellied marmot,,Present
+GLAC,Glacier National Park,Mammal,1,Rodentia,Sciuridae,89681,180151,Active,Spermophilus columbianus,Columbian ground squirrel,,Present
+GLAC,Glacier National Park,Mammal,1,Rodentia,Sciuridae,89684,180154,Active,Spermophilus lateralis,golden-mantled ground squirrel,,Present
+GLAC,Glacier National Park,Mammal,1,Rodentia,Sciuridae,89687,180157,Active,Spermophilus richardsonii,richardson's ground squirrel,,Present
+GLAC,Glacier National Park,Mammal,1,Rodentia,Sciuridae,89693,180162,Active,Spermophilus tridecemlineatus,thirteen-lined ground squirrel,,Present
+GLAC,Glacier National Park,Mammal,1,Rodentia,Sciuridae,90648,180190,Active,Tamias amoenus,chipmunk (yellow pine),Eutamias amoenus,Present
+GLAC,Glacier National Park,Mammal,1,Rodentia,Sciuridae,90662,180202,Active,Tamias ruficaudus,chipmunk (red tailed),Eutamias ruficaudus,Present
+GLAC,Glacier National Park,Mammal,1,Rodentia,Sciuridae,89697,180166,Active,Tamiasciurus hudsonicus,red squirrel,,Present
+GLAC,Glacier National Park,Reptile,3,Squamata,Charinidae,80843,174326,Active,Charina bottae,"Northern Rubber Boa, Rubber Boa",,Probably Present
+GLAC,Glacier National Park,Reptile,3,Squamata,Colubridae,79032,174142,Active,Thamnophis elegans,"Terrestrial Garter Snake, Western Terrestrial Garter Snake",,Present
+GLAC,Glacier National Park,Reptile,3,Squamata,Colubridae,79025,174136,Active,Thamnophis sirtalis,"Common Garter Snake, Common Gartersnake",,Present
+GLAC,Glacier National Park,Reptile,3,Testudines,Emydidae,76890,173783,Active,Chrysemys picta,"Eastern Painted Turtle, Painted Turtle",,Present
