@@ -23,9 +23,7 @@ in natures playground.
 
 ## Questions:
 1) Which National Parks in the Intermountain region have the most deaths from years 2007 - 2023?
-2) What are the demographics, activities, and other factors that influence these numbers?
-3) In 2023, have the Grand Canyon and Big Bend National Parks improved their fatality record to move closer in numbers to 
-the safer parks?
+2) How have fatality trends in the national parks shifted from 2007 to 2023, analyzing total deaths, causes of death and park locations? 
 
 ## Normalizing the Data
 There were many data sets I selected from the main source which I then cleaned and merged as needed to compile the desired 
@@ -35,13 +33,15 @@ not as relevant to my questions as I expected.  I kept the data in my notebook f
 ## Challenges and Hurdles
 It was a challenge to take such large data sets and merge them concisely into manageable and effective smaller sets for analysis.
 Due to the high number of visitors as compared to deaths, it was also challenging to normalize the data while still being able to see 
-the numbers in a meaningful way. 
+the numbers in a meaningful way.Early years of data do not appear to include some values concerning causes of death, and may have affected
+certain outcomes so were not included or were accounted for in the presentation.
 
 ## Technologies Used
 1) Python / Pandas for normalizing and aggregating data
 2) PowerBI - creating an interactive dashboard
 3) Canva - for presentation of project 
 4) Git - for version control
+5) Webscraping 
 
 ## Data Sources
 
